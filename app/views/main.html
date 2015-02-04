@@ -1,23 +1,70 @@
-<div class="jumbotron">
-  <h1>'Allo, 'Allo!</h1>
-  <p class="lead">
-    <img src="images/yeoman.png" alt="I'm Yeoman"><br>
-    Always a pleasure scaffolding your apps.
-  </p>
-  <p><a class="btn btn-lg btn-success" ng-href="#">Splendid!<span class="glyphicon glyphicon-ok"></span></a></p>
+<section class="section-vendor-colors">
+  <div class="row">
+    <div class="col-sm-4">
+        <div class="form-group">
+          <div class="input-group">
+            <input id="id_search_man" type="text" class="form-control" ng-model="search.manufacturer" placeholder="Manufacturer"/>
+            <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.manufacturer = search.manufacturer"><i class="glyphicon glyphicon-search"></i></button></span>
+           </div>
+        </div>
+      </div>
+    <div class="col-sm-4">
+        <div class="form-group">
+          <div class="input-group">
+            <input id="id_search_color" type="text" class="form-control" ng-model="search.color" placeholder="Color"/>
+            <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.color = search.color"><i class="glyphicon glyphicon-search"></i></button></span>
+           </div>
+        </div>
+      </div>
+    <div class="col-sm-4">
+      <div class="form-group">
+        <div class="input-group">
+          <input id="id_search_number" type="text" class="form-control" ng-model="search.number" placeholder="Number"/>
+          <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.number = search.number"><i class="glyphicon glyphicon-search"></i></button></span>
+         </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="form-group">
+        <div class="input-group">
+          <input id="id_search_all" type="text" class="form-control" ng-model="search.all" placeholder="All"/>
+          <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.$ = search.all"><i class="glyphicon glyphicon-search"></i></button></span>
+         </div>
+      </div>
+    </div>
+    <div class="col-sm-8">
+      <button ng-if="searchFilter.manufacturer" ng-click="searchFilter.manufacturer='';search.manufacturer='';" class="btn btn-default">manufacturer <i class="glyphicon glyphicon-remove"></i></button>
+      <button ng-if="searchFilter.color" ng-click="searchFilter.color='';search.color='';" class="btn btn-default">color <i class="glyphicon glyphicon-remove"></i></button>
+      <button ng-if="searchFilter.number" ng-click="searchFilter.number='';search.number='';" class="btn btn-default">number <i class="glyphicon glyphicon-remove"></i></button>
+      <button ng-if="searchFilter.$" ng-click="searchFilter.$='';search.all='';" class="btn btn-default">all <i class="glyphicon glyphicon-remove"></i></button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+  <div class="table-responsive">
+  <table class="table table-condensed table-striped table-hover table-bordered">
+    <thead>
+      <tr>
+        <th>Manufacturer</th>
+        <th>Color</th>
+        <th>Number</th>
+        <th>Glueboss Color</th>
+        <th>New Number</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="color in vendorColors | filter:searchFilter">
+        <td>{{color.manufacturer}}</td>
+        <td>{{color.color}}</td>
+        <td>{{color.number}}</td>
+        <td>{{color.glueBoss_color}}</td>
+        <td>{{color.new_number}}</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
-<div class="row marketing">
-  <h4>HTML5 Boilerplate</h4>
-  <p>
-    HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
-  </p>
-
-  <h4>Angular</h4>
-  <p>
-    AngularJS is a toolset for building the framework most suited to your application development.
-  </p>
-
-  <h4>Karma</h4>
-  <p>Spectacular Test Runner for JavaScript.</p>
 </div>
+</div>
+</section>
