@@ -14,7 +14,7 @@ angular.module('gluebossApp')
       'AngularJS',
       'Karma'
     ];
-    $http.get('json/vendor-colors.json').success(function(data) {
+    $http.get('https://s3-us-west-1.amazonaws.com/glueboss/vendor-colors.json').success(function(data) {
       $scope.vendorColors = data;
-    })
+    });
   });
