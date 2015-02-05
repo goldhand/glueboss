@@ -1,45 +1,21 @@
-<section class="section-vendor-colors">
+<div class="loading text-center" ng-show='!vendorColors.length'>
+  <span>Loading data...</span><br><br>
+  <i class="fa fa-spinner fa-spin fa-3x"></i>
+</div>
+<section class="section-vendor-colors" ng-show="vendorColors.length">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-6">
+      <form ng-submit="searchFilter.all = search.all">
         <div class="form-group">
           <div class="input-group">
-            <input id="id_search_man" type="text" class="form-control" ng-model="search.manufacturer" placeholder="Manufacturer"/>
-            <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.manufacturer = search.manufacturer"><i class="glyphicon glyphicon-search"></i></button></span>
+            <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.all = search.all"><i class="glyphicon glyphicon-search"></i></button></span>
+            <input id="id_search_all" type="text" class="form-control" ng-model="search.all" placeholder="Search Manufacturer Color or Number"/>
+             <span ng-if="search.all || searchFilter.all" class="input-group-btn"><button ng-click="searchFilter.all=null;search.all=null;" class="btn btn-default"><i class="glyphicon glyphicon-remove"></i></button></span>
            </div>
         </div>
-      </div>
-    <div class="col-sm-4">
-        <div class="form-group">
-          <div class="input-group">
-            <input id="id_search_color" type="text" class="form-control" ng-model="search.color" placeholder="Color"/>
-            <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.color = search.color"><i class="glyphicon glyphicon-search"></i></button></span>
-           </div>
-        </div>
-      </div>
-    <div class="col-sm-4">
-      <div class="form-group">
-        <div class="input-group">
-          <input id="id_search_number" type="text" class="form-control" ng-model="search.number" placeholder="Number"/>
-          <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.number = search.number"><i class="glyphicon glyphicon-search"></i></button></span>
-         </div>
-      </div>
+      </form>
     </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-4">
-      <div class="form-group">
-        <div class="input-group">
-          <input id="id_search_all" type="text" class="form-control" ng-model="search.all" placeholder="All"/>
-          <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.$ = search.all"><i class="glyphicon glyphicon-search"></i></button></span>
-         </div>
-      </div>
-    </div>
-    <div class="col-sm-8">
-      <button ng-if="searchFilter.manufacturer" ng-click="searchFilter.manufacturer='';search.manufacturer='';" class="btn btn-default">manufacturer <i class="glyphicon glyphicon-remove"></i></button>
-      <button ng-if="searchFilter.color" ng-click="searchFilter.color='';search.color='';" class="btn btn-default">color <i class="glyphicon glyphicon-remove"></i></button>
-      <button ng-if="searchFilter.number" ng-click="searchFilter.number='';search.number='';" class="btn btn-default">number <i class="glyphicon glyphicon-remove"></i></button>
-      <button ng-if="searchFilter.$" ng-click="searchFilter.$='';search.all='';" class="btn btn-default">all <i class="glyphicon glyphicon-remove"></i></button>
-    </div>
+    <div class="col-sm-6"><p class="">Showing {{(vendorColors | multiKeywordFilter:searchFilter.all).length}} out of {{ vendorColors.length }} colors </p></div>
   </div>
   <div class="row">
     <div class="col-sm-12">
@@ -55,7 +31,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr ng-repeat="color in vendorColors | filter:searchFilter">
+      <tr ng-repeat="color in vendorColors | multiKeywordFilter:searchFilter.all">
         <td>{{color.manufacturer}}</td>
         <td>{{color.color}}</td>
         <td>{{color.number}}</td>
