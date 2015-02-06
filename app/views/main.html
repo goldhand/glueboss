@@ -35,7 +35,7 @@
               <td>{{color.manufacturer}}</td>
               <td>{{color.color}}</td>
               <td>{{color.number}}</td>
-              <td><span ng-if="color.glueBoss_color"><a ng-repeat="colorKey in vendorColorKeys" ng-if="color.glueBoss_color==colorKey.name" href="{{linkUrl}}?color={{colorKey.id}}">{{color.glueBoss_color}}</a></span></td>
+              <td><a ng-if="color.glueBoss_color" href="{{linkUrl}}?color={{vendorColorKeys[color.glueBoss_color]}}">{{color.glueBoss_color}}</td>
               <td>{{color.new_number}}</td>
             </tr>
           </tbody>
