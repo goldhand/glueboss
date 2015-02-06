@@ -1,1 +1,93 @@
-<p>This is the about view.</p>
+<div class="well">
+  <select name="SELECT___SP4-4000___2">
+<option value="121" selected="">Clear 4000</option>
+<option value="109">Antique 4109</option>
+<option value="110">Ash 4623</option>
+<option value="111">Auburn 4330</option>
+<option value="112">Beach  4230</option>
+<option value="113">Beige 4228</option>
+<option value="114">Buff 4210</option>
+<option value="115">Butter 4226</option>
+<option value="116">Cameo 4120</option>
+<option value="117">Canvas 4112</option>
+<option value="118">Caramel 4234</option>
+<option value="119">Chalk 4100</option>
+<option value="120">Chocolate 4324</option>
+<option value="122">Cloud 4118</option>
+<option value="123">Coal 4530</option>
+<option value="124">Cocoa 4323</option>
+<option value="125">Copper 4418</option>
+<option value="126">Cotton 4104</option>
+<option value="127">Cream 4232</option>
+<option value="128">Dune 4310</option>
+<option value="129">Earth 4233</option>
+<option value="130">Espresso 4528</option>
+<option value="131">Fawn 4316</option>
+<option value="132">Flax 4224</option>
+<option value="133">Fog 4200</option>
+<option value="134">Glacier 4111</option>
+<option value="135">Hazel 4432</option>
+<option value="136">Ice 4218</option>
+<option value="137">Khaki  4236</option>
+<option value="138">Latte 4312</option>
+<option value="139">Lava 4521</option>
+<option value="140">Manilla 4231</option>
+<option value="141">Marble 4106</option>
+<option value="142">Mesa 4604</option>
+<option value="143">Midnight 4532</option>
+<option value="144">Milk 4602</option>
+<option value="145">Misty 4220</option>
+<option value="146">Mocha  4322</option>
+<option value="147">Natural 4214</option>
+<option value="148">Newport 4116</option>
+<option value="149">Olive 4520</option>
+<option value="150">Opal 4114</option>
+<option value="151">Pearl 4510</option>
+<option value="152">Pewter 4518</option>
+<option value="153">Prairie 4516</option>
+<option value="154">Pudding 4606</option>
+<option value="155">Roast 4332</option>
+<option value="156">Rust 4424</option>
+<option value="157">Sand 4216</option>
+<option value="158">Satin 4110</option>
+<option value="159">Shale 4525</option>
+<option value="160">Slate 4512</option>
+<option value="161">Smoke 4523</option>
+<option value="162">Snow 4108</option>
+<option value="163">Sonora 4317</option>
+<option value="164">Stone 4222</option>
+<option value="165">Thunder 4522</option>
+<option value="166">Toffee 4318</option>
+<option value="167">Toscana 4648</option>
+<option value="168">Umber 4605</option>
+<option value="169">Vanilla 4105</option>
+<option value="170">Willow 4314</option>
+<option value="171">Winter  4101</option>
+</select>
+</div>
+
+
+<script> 
+(function(){
+  function getQueryString() {
+      var queryString= [];
+      var hash;
+      var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+      for(var i = 0; i < hashes.length; i++)
+      {
+          hash = hashes[i].split('=');
+          queryString.push(hash[0]);
+          queryString[hash[0]] = hash[1];
+      }
+      return queryString;
+  };
+
+  $(function(){ 
+    var q = getQueryString();
+    var selector = $("select")[0] 
+    if(q && q['color']) {
+      $(selector).val(q['color']);
+    };
+  }); 
+})();
+</script> 

@@ -19,28 +19,28 @@
   </div>
   <div class="row">
     <div class="col-sm-12">
-  <div class="table-responsive">
-  <table class="table table-condensed table-striped table-hover table-bordered">
-    <thead>
-      <tr>
-        <th>Manufacturer</th>
-        <th>Color</th>
-        <th>Number</th>
-        <th>Glueboss Color</th>
-        <th>New Number</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr ng-repeat="color in vendorColors | multiKeywordFilter:searchFilter.all">
-        <td>{{color.manufacturer}}</td>
-        <td>{{color.color}}</td>
-        <td>{{color.number}}</td>
-        <td>{{color.glueBoss_color}}</td>
-        <td>{{color.new_number}}</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-</div>
-</div>
+      <div class="table-responsive">
+        <table class="table table-condensed table-striped table-hover table-bordered">
+          <thead>
+            <tr>
+              <th>Manufacturer</th>
+              <th>Color</th>
+              <th>Number</th>
+              <th>Glueboss Color</th>
+              <th>Glueboss Number</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr ng-repeat="color in vendorColors | multiKeywordFilter:searchFilter.all">
+              <td>{{color.manufacturer}}</td>
+              <td>{{color.color}}</td>
+              <td>{{color.number}}</td>
+              <td><span ng-if="color.glueBoss_color"><a ng-repeat="colorKey in vendorColorKeys" ng-if="color.glueBoss_color==colorKey.name" href="{{linkUrl}}?color={{colorKey.id}}">{{color.glueBoss_color}}</a></span></td>
+              <td>{{color.new_number}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
 </section>

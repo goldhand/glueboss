@@ -17,5 +17,9 @@ angular.module('gluebossApp')
     $http.get('https://s3-us-west-1.amazonaws.com/glueboss/vendor-colors.json').success(function(data) {
       $scope.vendorColors = data;
     });
+    $http.get('https://s3-us-west-1.amazonaws.com/glueboss/vendor-color-id.json').success(function(data) {
+      $scope.vendorColorKeys = data;
+    });
+    $scope.linkUrl = 'http://glueboss.herokuapp.com/#/about';
 
   });
