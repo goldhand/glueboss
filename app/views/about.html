@@ -66,8 +66,46 @@
 </select>
 </div>
 
+<div class="iframe-container">
+  <iframe src="//glueboss.herokuapp.com/#/" width="1200" height="600" frameborder="0"></iframe>
+</div>
+<style>
+  .iframe-container {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow-x: scroll;
+}
+@media(max-width:480px;) {
+  .iframe-container {
+    padding-bottom: 150%;
+  }
+}
+.iframe-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-width: 0;
+}
+</style>
+<script>
+(function(){
+  function setIframeSize() {
+    var iframes=document.getElementsByTagName('iframe');
+    for (var i = iframes.length - 1; i >= 0; i--) {
+      iframes[i].setAttribute('width', window.innerWidth);
+    };
+  };
 
-<iframe src="http://glueboss.herokuapp.com/#/" style="width:100%;height:600px;"></iframe>
+  setIframeSize();
+  window.addEventListener('resize', function() {
+    setIframeSize();
+  }, false);
+})();
+</script>
+
 
 <script> 
 (function(){

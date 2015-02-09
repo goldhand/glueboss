@@ -20,7 +20,6 @@ angular.module('gluebossApp')
     $http.get('https://s3-us-west-1.amazonaws.com/glueboss/vendor-color-id.json').success(function(data) {
       $scope.vendorColorKeys = {};
       angular.forEach(data, function(colorKey){
-        console.log(colorKey.name, colorKey.id);
         $scope.vendorColorKeys[colorKey.name] = colorKey.id;
       });
     });
