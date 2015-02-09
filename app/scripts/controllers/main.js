@@ -24,6 +24,6 @@ angular.module('gluebossApp')
         $scope.vendorColorKeys[colorKey.name] = colorKey.id;
       });
     });
-    $scope.linkUrl = 'https://www.glueboss.com/product-p/sp4-4000.htm';
+    $scope.linkUrl = '//www.glueboss.com/product-p/sp4-4000.htm';
 
   });
