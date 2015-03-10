@@ -1,0 +1,2793 @@
+Manufacturer,Manufacturer Color,Manufacturer Color Number,glueboss color name,Glue Boss Color Number,glueboss color volusion id,transparency,red,green,blue,transparency Rating,Text Color 0black 1white,Color Status
+Affinity,Ancient Wetland,SL-104,Fawn,4316,131,100,148,125,96,3,0,Primary
+Affinity,Anherst Crest,SL-108,Sonora,4317,163,100,172,157,135,0,0,Primary
+Affinity,Arcadian Rock,SL-70,Latte,4312,138,100,165,144,113,4,0,Alternate
+Affinity,Asea Stone,SL-58,Beach,4230,112,100,208,186,148,3,0,Primary
+Affinity,Auburn Horizon,SL-135,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Affinity,Autumn Ridge,SL-88,Beach,4230,112,100,208,186,148,3,0,Primary
+Affinity,Basic,ES-01,Winter,4101,171,90,253,253,252,3,0,Primary
+Affinity,Bisque,ES-03,Antique,4109,109,97,255,247,240,3.5,0,Primary
+Affinity,Brazilian Onyx,SL-140,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Affinity,Burnt Riverbed,SL-128,Smoke,4523,161,55,0,0,0,1.5,1,Primary
+Affinity,Chipped Pearl,SL-45,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Affinity,Clean,ES-11,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Affinity,Cracked Diamond,SL-48,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Affinity,Cut Topaz,SL-85,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Affinity,Dream Haze,SL-52,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Affinity,Earthen Crust,SL-117,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Affinity,Ecru,ES-25,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Affinity,Enbedded Pyrite,SL-125,Rust,4424,156,91,118,62,31,4,1,Alternate
+Affinity,Fiorito,MJ-380,Meridian,4649,0,0,0,0,0,0,1,Primary
+Affinity,Fossilized Ember,SL-116,Sonora,4317,163,100,172,157,135,0,0,Primary
+Affinity,Frozen Peak,SL-95,Beach,4230,112,100,208,186,148,3,0,Primary
+Affinity,Fundamental,ES-39,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Affinity,Graphite Haze,SL-113,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Affinity,Instinctive,ES-18,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Affinity,Linen,ES-04,Natural,4214,147,89,255,255,255,3,0,Primary
+Affinity,Lunar Dream,SL-61,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Affinity,Mesa,ES-31,Fawn,4316,131,100,148,125,96,3,0,Primary
+Affinity,Mesquite,ES-37,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Affinity,Natural Element,SL-63,Beach,4230,112,100,208,186,148,3,0,Primary
+Affinity,Necessity,ES-20,Beach,4230,112,100,208,186,148,3,0,Primary
+Affinity,Obsidian Crystal,SL-123,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Affinity,Petrified Pumice,SL-90,Beach,4230,112,100,208,186,148,3,0,Primary
+Affinity,Polished Citrine,SL-83,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Affinity,Precambrian Stone,SL-77,Camel,4610,0,0,0,0,0,0,1,Primary
+Affinity,Prima Star,SL-55,Stone,4222,164,85,214,204,186,3,0,Primary
+Affinity,Primal Quatrz,SL-92,Beach,4230,112,100,208,186,148,3,0,Primary
+Affinity,Pure,ES-15,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Affinity,Quarry,ES-36,Smoke,4523,161,55,0,0,0,1.5,1,Primary
+Affinity,River Rock,SL-72,Beach,4230,112,100,208,186,148,3,0,Primary
+Affinity,Roasted Nutmeg,SL-137,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Affinity,Roman Earth,SL-121,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Affinity,Rustic Pearl,SL-69,Beige,4228,113,100,211,189,151,3,0,Primary
+Affinity,Rustic Sunset,SL-143,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Affinity,Scarlet Crystal,SL-127,Smoke,4523,161,55,0,0,0,1.5,1,Primary
+Affinity,Sediment,ES-33,Rust,4424,156,91,118,62,31,4,1,Primary
+Affinity,Shale Stone,SL-149,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Affinity,Sifted Fossa,SL-133,Mesa,4604,142,93,39,33,29,4,1,Primary
+Affinity,Silt Stone,SL-148,Cream,4232,127,100,211,201,177,4,0,Primary
+Affinity,Smokey Quartz,SL-119,Rust,4424,156,91,118,62,31,4,1,Alternate
+Affinity,Sonora Quarry,SL-82,Latte,4312,138,100,165,144,113,4,0,Primary
+Affinity,Speckled Concrete,SL-96,Beach,4230,112,100,208,186,148,3,0,Primary
+Affinity,Venetian Terrazzo,SL-99,Cream,4232,127,100,211,201,177,4,0,Primary
+Affinity,Viridian Clarity,SL-144,Natural,4214,147,89,255,255,255,3,0,Primary
+Affinity,Virtuous,ES-22,Natural,4214,147,89,255,255,255,3,0,Primary
+Affinity,Vision Ash,SL-51,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Affinity,Vitality,ES-28,Natural,4214,147,89,255,255,255,3,0,Primary
+Affinity,Volcanic Amber,SL-131,Clear,4000,121,50,253,253,252,1,0,Primary
+Affinity,Western Slate,SL-75,Camel,4610,0,0,0,0,0,0,1,Primary
+Affinity,Winter Frost,SL-53,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Affinity,Zinc Blende,SL-98,Cream,4232,127,100,211,201,177,4,0,Primary
+Allen & Roth Quartz,Alloy,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Allen & Roth Quartz,Angel Ash,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Allen & Roth Quartz,Ash,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Allen & Roth Quartz,Brockeye,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Allen & Roth Quartz,Chelan,,Beach,4230,112,100,208,186,148,3,0,Primary
+Allen & Roth Quartz,Coho,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Allen & Roth Quartz,Cortina,,,Call,,,,,,,0,
+Allen & Roth Quartz,Ellensburg,,,Call,,,,,,,0,
+Allen & Roth Quartz,Fairway Rock,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Allen & Roth Quartz,Fairway Rock,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Allen & Roth Quartz,Grand Pacific,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Allen & Roth Quartz,Gruene,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Allen & Roth Quartz,Inverness,,,Call,,,,,,,0,
+Allen & Roth Quartz,Javasti,,,Call,,,,,,,0,
+Allen & Roth Quartz,Kamari,,Beach,4230,112,100,208,186,148,3,0,Alternate
+Allen & Roth Quartz,Kelsey Creek,,,Call,,,,,,,0,
+Allen & Roth Quartz,Kenai Red,,Auburn,4330,111,100,71,58,57,5,1,Primary
+Allen & Roth Quartz,Magnolia Grove,,,Call,,,,,,,0,
+Allen & Roth Quartz,Magnuson,,,Call,,,,,,,0,
+Allen & Roth Quartz,Mckinley,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Allen & Roth Quartz,Mckinley,,Latte,4312,138,100,165,144,113,4,0,Alternate
+Allen & Roth Quartz,Montlake,,,Call,,,,,,,0,
+Allen & Roth Quartz,Nutmeg,,Cream,4232,127,100,211,201,177,4,0,Primary
+Allen & Roth Quartz,Oswego,,,Call,,,,,,,0,
+Allen & Roth Quartz,Palouse,,,Call,,,,,,,0,
+Allen & Roth Quartz,Powderhorn,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Allen & Roth Quartz,Saffron,,Beige,4228,113,100,211,189,151,3,0,Primary
+Allen & Roth Quartz,Sammamish,,,Call,,,,,,,0,
+Allen & Roth Quartz,Smokey Basin,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Allen & Roth Quartz,Smokey Basin,,Prairie,4516,153,90,137,139,123,3.5,0,Alternate
+Allen & Roth Quartz,Sugarbrush,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Allen & Roth Quartz,Sugarbrush,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Allen & Roth Solid Surface,Tacana,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Allen & Roth Solid Surface,Vashon,,,Call,,,,,,,0,
+Allen & Roth Solid Surface,Wheat,,Beach,4230,112,100,208,186,148,3,0,Primary
+Allen & Roth Solid Surface,Whidbey,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Allen & Roth Solid Surface,Alpine Ridge,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Allen & Roth Solid Surface,Alpine Ridge,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Allen & Roth Solid Surface,Antiquity,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Allen & Roth Solid Surface,Antiquity,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Allen & Roth Solid Surface,Austin Rock,,,Call,,,,,,,0,
+Allen & Roth Solid Surface,Bay Leaf,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Allen & Roth Solid Surface,Bay Leaf,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Allen & Roth Solid Surface,Beechnut,,Natural,4214,147,89,255,255,255,3,0,Primary
+Allen & Roth Solid Surface,Beechnut,,Natural,4214,147,89,255,255,255,3,0,Primary
+Allen & Roth Solid Surface,Bisque,,Creamy,4707,0,0,0,0,0,0,1,Primary
+Allen & Roth Solid Surface,Bisque,,Creamy,4707,0,0,0,0,0,0,1,Primary
+Allen & Roth Solid Surface,Black Tie,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Allen & Roth Solid Surface,Black Tie,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Allen & Roth Solid Surface,Brilliant White,,Chalk,4100,119,100,253,253,252,4,0,Primary
+Allen & Roth Solid Surface,Brilliant White,,Chalk,4100,119,100,253,253,252,4,0,Primary
+Allen & Roth Solid Surface,Catalina,,Natural,4214,147,89,255,255,255,3,0,Primary
+Allen & Roth Solid Surface,Catalina,,Beige,4228,113,100,211,189,151,3,0,Primary
+Allen & Roth Solid Surface,Chalk White,,Natural,4214,147,89,255,255,255,3,0,Primary
+Allen & Roth Solid Surface,Chalk White,,Natural,4214,147,89,255,255,255,3,0,Primary
+Allen & Roth Solid Surface,Coral Swarm,,Cream,4232,127,100,211,201,177,4,0,Primary
+Allen & Roth Solid Surface,Coral Swarm,,Cream,4232,127,100,211,201,177,4,0,Primary
+Allen & Roth Solid Surface,Dew,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Allen & Roth Solid Surface,Dew,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Allen & Roth Solid Surface,Espresso,,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Allen & Roth Solid Surface,Espresso,,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Allen & Roth Solid Surface,Gravel Tan,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Allen & Roth Solid Surface,Gravel Tan,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Allen & Roth Solid Surface,Hamilton,,,Call,,,,,,,0,
+Allen & Roth Solid Surface,Kemah,,,Call,,,,,,,0,
+Allen & Roth Solid Surface,Kitsap,,,Call,,,,,,,0,
+Allen & Roth Solid Surface,Mendenhall,,,Call,,,,,,,0,
+Allen & Roth Solid Surface,Mist,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Allen & Roth Solid Surface,Mist,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Allen & Roth Solid Surface,Nexus,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Avonite,Nexus,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Overlake,,,Call,,,,,,,0,
+Avonite,Palladian,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Palladian,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Pebble,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Pebble,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Avonite,Pink Sand,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Pink Sand,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,River Rock,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Avonite,River Rock,,Pudding,4606,154,88,45,39,18,3,1,Alternate
+Avonite,Rocky Sand,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Avonite,Rocky Sand,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Avonite,Sanctuary,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Sanctuary,,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Avonite,Sandy White,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Sandy White,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Shady Acres,,,Call,,,,,,,0,
+Avonite,Sidewalk,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Sidewalk,,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Avonite,Slate,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Avonite,Slate,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Avonite,Slate Sage,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Avonite,Slate Sage,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Avonite,Soft White,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Avonite,Soft White,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Avonite,Sunwashed,,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Sunwashed,,Beige,4228,113,100,211,189,151,3,0,Primary
+Avonite,Terra Cotta,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Avonite,Terra Cotta,,Rust,4424,156,91,118,62,31,4,1,Primary
+Avonite,Toffee,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Avonite,Toffee,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Avonite,White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Avonite,White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Avonite,Wildflower,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Avonite,Wildflower,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Avonite,Adobe Brown,C1-1700,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Avonite,Algodon,F1-7713,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Avonite,Amazon,K3-8460,Olive,4520,149,91,74,63,37,0,1,Primary
+Avonite,Amber Glass,K3-8560,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Antique Glass,K3-8455,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Argent,K3-8565,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Avonite,Arroyo,F1-7936,Fawn,4316,131,100,148,125,96,3,0,Primary
+Avonite,Artica,F1-9065,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Avonite,Aspen,F1-9105,Stone,4222,164,85,214,204,186,3,0,Primary
+Avonite,Autumn Wheat,K3-7725,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Avalanche,F1-7500,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Avonite,Aztec Brown,K3-7700,Fawn,4316,131,100,148,125,96,3,0,Primary
+Avonite,Azurite,K3-8550,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Back Roads,K1-6640,Coal,4530,123,72,0,0,0,1.5,1,Primary
+Avonite,Back Roads,K1-6640,Midnight,4532,143,100,0,0,0,4,1,Primary
+Avonite,Biscotti,F1-9033,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Avonite,Black Coral,F1-9125,Coal,4530,123,72,0,0,0,1.5,1,Primary
+Avonite,Black Coral,F1-9125,Midnight,4532,143,100,0,0,0,4,1,Primary
+Avonite,Black Ice,K3-7100,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Black Lava,F1-9020,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Avonite,Blue Moon,F1-7745,Pewter,4518,152,90,146,136,119,3.5,0,Alternate
+Avonite,Blue Mountain,,,Call,,,,,,,0,
+Avonite,Blue Pearl,K3-8000,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Avonite,Boardwalk,F1-7921,Cream,4232,127,100,211,201,177,4,0,Alternate
+Avonite,Bone,F1-8010,Vanilla,4105,169,95,234,237,227,0,0,Primary
+Avonite,Brazilian Blue,K3-8100,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Avonite,Bronze,F1-7830,Olive,4520,149,91,74,63,37,0,1,Alternate
+Avonite,Brown Sugar,K1-6641,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Avonite,Cairo,F1-9130,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Avonite,Canary,f1-7554,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Casablanca,F1-9137,Beach,4230,112,100,208,186,148,3,0,Primary
+Avonite,Cat Eye,K3-8330,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Cavern,F1-7821,Pudding,4606,154,88,45,39,18,3,1,Alternate
+Avonite,Cement,K3-8425,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Avonite,Chocolate Silk,K3-8342,Auburn,4330,111,100,71,58,57,5,1,Primary
+Avonite,Cirrus,K3-8603,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Cliffside,F1-7931,Mesa,4604,142,93,39,33,29,4,1,Primary
+Avonite,Coastal Green,,,Call,,,,,,,0,
+Avonite,Coastline,F1-4310,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Cobalt Glass,K3-8485,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Copper Canyon,K3-8570,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Coppermine,K3-8490,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Cordoba,F1-9234,Beach,4230,112,100,208,186,148,3,0,Primary
+Avonite,Cosmic Penny,,,Call,,,,,,,0,
+Avonite,Cotton Wood,K1-6600,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Avonite,Cotton Wood,K1-6600,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Avonite,Cozumel,K3-8575,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Avonite,Crater,,,Call,,,,,,,0,
+Avonite,Crème,F1-8024,Malt,4624,0,0,0,0,0,0,1,Primary
+Avonite,Crushed Lava,K3-8575,Willow,4314,170,100,183,171,143,0,0,Primary
+Avonite,Cypress,F1-9085,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Dakota Rust,K3-7900,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Dark Bright,F1-7735,Pudding,4606,154,88,45,39,18,3,1,Primary
+Avonite,Dark Roast,F1-7735,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Avonite,Desert Ridge,K1-6635,Beige,4228,113,100,211,189,151,3,0,Primary
+Avonite,Desert Tan,C1-2250,Cream,4232,127,100,211,201,177,4,0,Primary
+Avonite,Driftwood,F1-9038,Cream,4232,127,100,211,201,177,4,0,Primary
+Avonite,El Cajon,,Beige,4228,113,100,211,189,151,3,0,Primary
+Avonite,Fargo,F1-9138,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Avonite,Frosted Glass,K3-8480,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Ginger,,,Call,,,,,,,0,
+Avonite,Goldmine,K3-8495,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Good Earth Red,F1-7940,Maroon,4613,0,0,0,0,0,0,1,Primary
+Avonite,Gulf Coast,F1-7710,Stone,4222,164,85,214,204,186,3,0,Primary
+Avonite,Hazelnut,F1-7557,Beige,4228,113,100,211,189,151,3,0,Primary
+Avonite,High Desert,F1-9037,Cream,4232,127,100,211,201,177,4,0,Primary
+Avonite,Honey Crunch,F1-4330,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Avonite,Icecap,F1-7550,Newport,4116,148,90,228,228,228,0,0,Primary
+Avonite,Infinity,F1-7845,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Infinity,F1-7845,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Avonite,Ivory,F1-8106,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Jicama,K1-6625,Beach,4230,112,100,208,186,148,3,0,Primary
+Avonite,Juneau,F1-9116,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Avonite,Jurassic,F1-7711,Beach,4230,112,100,208,186,148,3,0,Primary
+Avonite,Kaleidoscope,K3-8200,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Avonite,Khaki,F1-4330,Fawn,4316,131,100,148,125,96,3,0,Primary
+Avonite,Kokoura,F1-9117,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Avonite,Lagoon,F1-9061,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Limestone,C1-1610,Stone,4222,164,85,214,204,186,3,0,Primary
+Avonite,Malt,F1-7810,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Martian Sunset,,,Call,,,,,,,0,
+Avonite,Meadow Grass,F1-7730,Prairie,4516,153,90,137,139,123,3.5,0,Alternate
+Avonite,Mesa Brown,F1-9040,Mesa,4604,142,93,39,33,29,4,1,Primary
+Avonite,Midnight Sky,G3-1050,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Avonite,Moon Crystal,F1-7501,Natural,4214,147,89,255,255,255,3,0,Primary
+Avonite,Moon Dust,K3-6615,Sonora,4317,163,100,172,157,135,0,0,Primary
+Avonite,Morning Tundra,F1-7503,Sonora,4317,163,100,172,157,135,0,0,Primary
+Avonite,Moss Frost,K3-8310,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,Neptune,K3-8601,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,New Caldron,K3-8320,Clear,4000,121,50,253,253,252,1,0,Primary
+Avonite,New Castle,F1-7920,Lava,4521,139,100,87,86,77,4.5,1,Alternate
+Avonite,Night Pearl,K3-8580,Midnight,4532,143,100,0,0,0,4,1,Primary
+Avonite,Night Shadow,F1-9024,Midnight,4532,143,100,0,0,0,4,1,Primary
+Avonite,Nordic,F1-9119,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Avonite,Nougat,K3-8500,Stone,4222,164,85,214,204,186,3,0,Primary
+Avonite,Olivine,F1-9154,Olive,4520,149,91,74,63,37,0,1,Primary
+Avonite,Painted Desert,F1-7740,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Avonite,Palermo,F1-9144,Sonora,4317,163,100,172,157,135,0,0,Primary
+Basix,Palm Desert,K1-6638,Fawn,4316,131,100,148,125,96,3,0,Primary
+Basix,Pearl,K3-8343,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Basix,Perlino Verde,K3-7600,Clear,4000,121,50,253,253,252,1,0,Primary
+Basix,Pinon,F1-7912,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Basix,Pistachio,K3-8450,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Basix,Pistachio,K3-8450,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Basix,Platinum Gray,K3-7700,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Basix,Pumice,F1-9032,Stone,4222,164,85,214,204,186,3,0,Primary
+Basix,Quick Sand,F1-7932,Natural,4214,147,89,255,255,255,3,0,Primary
+Basix,Quick Sand,F1-7932,Beige,4228,113,100,211,189,151,3,0,Primary
+Basix,Raw Cotton,F1-9016,Stone,4222,164,85,214,204,186,3,0,Primary
+Basix,Recycled White,F1-8869,Winter,4101,171,90,253,253,252,3,0,Primary
+Basix,Red Rock,F1-7743,Rust,4424,156,91,118,62,31,4,1,Primary
+Basix,River Moss,F1-9058,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Basix,Royal Sapphire,G3-1660,Clear,4000,121,50,253,253,252,1,0,Primary
+Basix,Ruby Glass,K3-8420,Clear,4000,121,50,253,253,252,1,0,Primary
+Basix,Saffron,K3-8410,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Basix,Saffron,K3-8410,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Basix,Sandpiper,K1-6200,Beach,4230,112,100,208,186,148,3,0,Primary
+Basix,Sandstorm,F1-9036,Beach,4230,112,100,208,186,148,3,0,Primary
+Basix,Shark Skin,F1-7556,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Basix,Sherwood Green,G3-1650,Clear,4000,121,50,253,253,252,1,0,Primary
+Basix,Silver Comet,K3-8585,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Basix,Sirocco,K3-8600,Clear,4000,121,50,253,253,252,1,0,Primary
+Basix,Sky Glass,K3-8465,Clear,4000,121,50,253,253,252,1,0,Primary
+Basix,Snowstorm,K1-6300,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Basix Quartz,Spanish Moss,,,Call,,,,,,,0,
+Basix Quartz,Star Shine,F1-7820,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Basix Quartz,Stormy Gray,F1-9010,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Basix Quartz,Summer,,,Call,,,,,,,0,
+Basix Quartz,Super White,F1-8026,Winter,4101,171,90,253,253,252,3,0,Primary
+Basix Quartz,Tango,F1-7552,Tango,4626,0,0,0,0,0,0,1,Primary
+Basix Quartz,Teal Steel,K3-8341,Clear,4000,121,50,253,253,252,1,0,Primary
+Basix Quartz,Terrene,,,Call,,,,,,,0,
+Basix Quartz,Thunder Bay,F1-7720,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Basix Quartz,Tuscan Gold,,,Call,,,,,,,0,
+Basix Quartz,Tusk,K3-8340,Clear,4000,121,50,253,253,252,1,0,Primary
+Basix Quartz,Wasabi Shadow,K3-8315,Midnight,4532,143,100,0,0,0,4,1,Primary
+Basix Quartz,White,F1-8026,Winter,4101,171,90,253,253,252,3,0,Primary
+Caesarstone,White Gold,K1-6605,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Caesarstone,White Sands,K1-6636,Beige,4228,113,100,211,189,151,3,0,Primary
+Caesarstone,Willow,K3-7800,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Caesarstone,Acadia,691,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Caesarstone,Autumn,203,Natural,4214,147,89,255,255,255,3,0,Primary
+Caesarstone,Aztec,565,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Caesarstone,Bayshore,665,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Caesarstone,Bright White,518,Chalk,4100,119,100,253,253,252,4,0,Primary
+Caesarstone,Calm,518,Winter,4101,171,90,253,253,252,3,0,Primary
+Caesarstone,Calypso,397,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Caesarstone,Castle Path,575,Khaki,4236,137,98,164,145,104,4,0,Primary
+Caesarstone,Catalina,210,Natural,4214,147,89,255,255,255,3,0,Primary
+Caesarstone,Constellation,4211,Midnight,4532,143,100,0,0,0,4,1,Primary
+Caesarstone,Dakota,146,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Caesarstone,Glacier Lake,579,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Caesarstone,Harmony,710,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Caesarstone,Homestead,4790,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Caesarstone,Ivory,410,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Caesarstone,Laurel Bay,730,Natural,4214,147,89,255,255,255,3,0,Primary
+Caesarstone,Legacy,4800,Khaki,4236,137,98,164,145,104,4,0,Alternate
+Caesarstone,Maple Lane,585,Latte,4312,138,100,165,144,113,4,0,Primary
+Caesarstone,Mesa,4789,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Caesarstone,Navajo,290,Pudding,4606,154,88,45,39,18,3,1,Primary
+Caesarstone,Speckle,707,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Caesarstone,Summit,819,Natural,4214,147,89,255,255,255,3,0,Primary
+Caesarstone,Tahiti,435,Pudding,4606,154,88,45,39,18,3,1,Primary
+Caesarstone,Warmth,101,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Caesarstone,Wild Oats,555,Latte,4312,138,100,165,144,113,4,0,Alternate
+Caesarstone,Windsor,586,Natural,4214,147,89,255,255,255,3,0,Primary
+Caesarstone,Alabaster,8028,Winter,4101,171,90,253,253,252,3,0,Primary
+Caesarstone,Apache,2120,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Caesarstone,Cobblestone,5045,Latte,4312,138,100,165,144,113,4,0,Primary
+Caesarstone,Dream Catcher,2001,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Caesarstone,Greystone,1014,Pudding,4606,154,88,45,39,18,3,1,Alternate
+Caesarstone,Latte,1007,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Caesarstone,Mink,1020,Pudding,4606,154,88,45,39,18,3,1,Primary
+Caesarstone,Mystic,1111,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Caesarstone,Opulence,5046,Mocha,4322,146,95,95,68,53,4,1,Primary
+Caesarstone,Ore,5034,Latte,4312,138,100,165,144,113,4,0,Primary
+Caesarstone,Pristine,1000,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Caesarstone,Sand Dollar,1011,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Caesarstone,Twilight,2100,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Caesarstone,Absolute Noir,6100,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Caesarstone,Amazon Green,,,Call,,,,,,,0,
+Caesarstone,Apple Martini,2710,Lime,4632,0,0,0,0,0,0,1,Primary
+Caesarstone,Atlantic Salt,6270,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Caesarstone,Baja,3200,Beach,4230,112,100,208,186,148,3,0,Primary
+Caesarstone,Basalt Black,6185,Midnight,4532,143,100,0,0,0,4,1,Primary
+Caesarstone,Bedrock,6370,Mocha,4322,146,95,95,68,53,4,1,Primary
+Caesarstone,Belgian Moon,4100,Midnight,4532,143,100,0,0,0,4,1,Primary
+Caesarstone,Black Rocks,4170,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Caesarstone,Blizzard,2141,Glacier,4111,134,90,253,253,252,3,0,Primary
+Caesarstone,Blue Ridge,,,Call,,,,,,,0,
+Caesarstone,Buttermilk,4220,Flax,4627,0,0,0,0,0,0,1,Primary
+Caesarstone,Carbone,7150,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Caesarstone,Carmel,9350,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Caesarstone,Cement,,,Call,,,,,,,0,
+Caesarstone,Champagne Limestone,2400,Earth,4628,0,0,0,0,0,0,1,Primary
+Caesarstone,Charcoal,,,Call,,,,,,,0,
+Caesarstone,Chocolate Truffle,6350,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Caesarstone,Cinder,2020,Cream,4232,127,100,211,201,177,4,0,Primary
+Caesarstone,Concrete,2003,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Caesarstone,Copper Abyss,,,Call,,,,,,,0,
+Caesarstone,Copper Canyon,9480,Auburn,4330,111,100,71,58,57,5,1,Primary
+Caesarstone,Crème Limestone,,,Call,,,,,,,0,
+Caesarstone,Dakota Bluffs,,,Call,,,,,,,0,
+Caesarstone,Dalmatian,,,Call,,,,,,,0,
+Caesarstone,Deep Ocean,4550,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Caesarstone,Desert Limestone,2200,Flax,4627,0,0,0,0,0,0,1,Primary
+Caesarstone,Dreamy Marfil,5220,,Call,,,,,,,0,
+Caesarstone,Dusty Stones,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Caesarstone,Ebony Reflections,,,Call,,,,,,,0,
+Caesarstone,Eggshell,3141,Glacier,4111,134,90,253,253,252,3,0,Primary
+Caesarstone,Emperadoro,5380,,Call,,,,,,,0,
+Caesarstone,Espresso,3380,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Caesarstone,Fair Lady,,,Call,,,,,,,0,
+Caesarstone,Forest Green,,,Call,,,,,,,0,Alternate
+Caesarstone,Free Spirit,,,Call,,,,,,,0,
+Caesarstone,Frosty Carrina,5141,,Call,,,,,,,0,
+Caesarstone,Ginger,4330,,Call,,,,,,,0,
+Caesarstone,Glacier,,,Call,,,,,,,0,
+Caesarstone,Gold Abyss,6120,Midnight,4532,143,100,0,0,0,4,1,Primary
+Caesarstone,Haze,2030,Stone,4222,164,85,214,204,186,3,0,Primary
+Caesarstone,Ice Snow,,,Call,,,,,,,0,
+Caesarstone,Ivory,,,Call,,,,,,,0,
+Caesarstone,Ivory Shimmer,,,Call,,,,,,,0,
+Caesarstone,Jerusalem Sand,4250,Manilla,4231,140,100,232,215,175,0,0,Primary
+Caesarstone,Jet Black,3100,,Call,,,,,,,0,
+Caesarstone,Lagos Blue,4350,Mesa,4604,142,93,39,33,29,4,1,Primary
+Caesarstone,Late Autumn,6380,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Caesarstone,Linen,2230,Cream,4232,127,100,211,201,177,4,0,Primary
+Caesarstone,London Gray,5000,,Call,,,,,,,0,
+Caesarstone,Maharaja,,,Call,,,,,,,0,
+Cambria,Mangrove,,,Call,,,,,,,0,
+Cambria,Marrone,7250,Mesa,4604,142,93,39,33,29,4,1,Primary
+Cambria,Metallic Black,7185,Midnight,4532,143,100,0,0,0,4,1,Primary
+Cambria,Metallic Brown,,,Call,,,,,,,0,
+Cambria,Misty Carrera,4141,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Cambria,Mocha,2370,Sonora,4317,163,100,172,157,135,0,0,Primary
+Cambria,Mojave Sunset,,,Call,,,,,,,0,
+Cambria,Night Shadow,,,Call,,,,,,,0,
+Cambria,Nougat,6600,Glacier,4111,134,90,253,253,252,3,0,Primary
+Cambria,Ocean Foam,6141,,Call,,,,,,,0,
+Cambria,Ocean Palace,,,Call,,,,,,,0,
+Cambria,Organic White,4600,Glacier,4111,134,90,253,253,252,3,0,Primary
+Cambria,Oyster,9601,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Cambria,Pebble,4030,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Cambria,Peppercorn,,,Call,,,,,,,0,
+Cambria,Piatra Gray,5003,,Call,,,,,,,0,
+Cambria,Pure White,1141,Winter,4101,171,90,253,253,252,3,0,Primary
+Cambria,Quartz Reflections,7141,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Cambria,Queen Of Hearts,,,Call,,,,,,,0,
+Cambria,Queen Of Sheba,,,Call,,,,,,,0,
+Cambria,Raven,4120,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Cambria,Red Shimmer,3452,,Call,,,,,,,0,
+Cambria,Rosemary,2740,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Cambria,Ruby Reflections,7450,Ruby,4629,0,0,0,0,0,0,1,Primary
+Cambria,Sage,,,Call,,,,,,,0,
+Cambria,Salmon,,,Call,,,,,,,0,Alternate
+Cambria,Sandy Beach,,,Call,,,,,,,0,
+Cambria,Savannah,9205,Beach,4230,112,100,208,186,148,3,0,Primary
+Cambria,Shitake,4230,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Cambria,Sierra,9255,Manilla,4231,140,100,232,215,175,0,0,Primary
+Cambria,Silver Spell,,,Call,,,,,,,0,
+Cambria,Smokey Ash,6140,Clear,4000,121,50,253,253,252,1,0,Primary
+Cambria,Smokey Ash,6140,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Cambria,Spring Blossom,7200,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Cambria,Starry Night,7080,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Cambria,Swan Lake,,,Call,,,,,,,0,
+Cambria,Urban,,,Call,,,,,,,0,
+Cambria,Verde,,,Call,,,,,,,0,
+Cambria,White Shimmer,,,Call,,,,,,,0,
+Cambria,White Ash,9260,Beige,4228,113,100,211,189,151,3,0,Primary
+Cambria,White Sands,,,Call,,,,,,,0,
+Cambria,Wild Rice,4360,Mesa,4604,142,93,39,33,29,4,1,Primary
+Cambria,Wild Rocks,6250,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Cambria,Aberdeen,,,Call,,,,,,,0,
+Cambria,Aragon,,Beach,4230,112,100,208,186,148,3,0,Primary
+Cambria,Armitage,,,Call,,,,,,,0,
+Cambria,Ashford,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Cambria,Bala Blue,,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Cambria,Bala Blue,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Cambria,Bellingham,,,Call,,,,,,,0,
+Cambria,Berkeley,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Cambria,Blackwood,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Cambria,Bradford,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Cambria,Bradshaw,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Cambria,Braemar,,,Call,,,,,,,0,
+Cambria,Brecon Brown,,Caramel,4234,118,97,168,138,93,3.5,0,Alternate
+Cambria,Brentwood,,Pewter,4518,152,90,146,136,119,3.5,0,Alternate
+Cambria,Bristol Blue,,Lava,4521,139,100,87,86,77,4.5,1,Alternate
+Cambria,Brownhill,,,Call,,,,,,,0,
+Cambria,Buckingham,,,Call,,,,,,,0,
+Cambria,Burnbury,,Auburn,4330,111,100,71,58,57,5,1,Primary
+Cambria,Burton Brown,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Cambria,Caerphilly Green,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Cambria,Cambrian Black,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Cambria,Cambrian Gold,,Beach,4230,112,100,208,186,148,3,0,Primary
+Cambria,Canterbury,,Caramel,4234,118,97,168,138,93,3.5,0,Alternate
+Cambria,Cardiff Cream,,,Call,,,,,,,0,
+Cambria,Carlisle Grey,,Cream,4232,127,100,211,201,177,4,0,Primary
+Cambria,Carmarthen Brown,,Auburn,4330,111,100,71,58,57,5,1,Primary
+Cambria,Castell,,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Cambria,Charston,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Cambria,Chatham,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Cambria,Cherrybrook,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Cambria,Clyde,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Cambria,Collybrook,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Cambria,Coswell Cream,,Flax,4627,0,0,0,0,0,0,1,Primary
+Cambria,Cranbrook,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Cambria,Cuddington,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Cambria,Darlington,,,Call,,,,,,,0,
+Cambria,Devon,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Cambria,Dovedale,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Cambria,Dover,,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Cambria,Durham,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Cambria,Edinburough,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Cambria,Ferndale,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Cambria,Fieldstone,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Cambria,Flint Black,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Cambria,Greystone,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Cambria,Halstead,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Cambria,Hamilton,,,Call,,,,,,,0,
+Cambria,Hazelford,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Cambria,Henley,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Cambria,Hollinsbrook,,,Call,,,,,,,0,
+Cambria,Hyde Park,,Khaki,4236,137,98,164,145,104,4,0,Primary
+Cambria,Kensington,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Cambria,Kingston,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Cambria,Lancaster,,Cream,4232,127,100,211,201,177,4,0,Primary
+Cambria,Laneshaw,,,Call,,,,,,,0,
+Cambria,Lincolnshire,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Cambria,Linwood,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Cambria,Minera,,,Call,,,,,,,0,
+Corian,New Brighton,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Corian,New Castle,,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Corian,New Haven,,Sonora,4317,163,100,172,157,135,0,0,Primary
+Corian,New Quay,,,Call,,,,,,,0,
+Corian,Newport,,,Call,,,,,,,0,
+Corian,Nottingham,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Corian,Oakhampton,,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Corian,Oxford,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Corian,Oxwich Green,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Corian,Park Gate,,Pudding,4606,154,88,45,39,18,3,1,Alternate
+Corian,Parys,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Corian,Praa Sands,,,Call,,,,,,,0,
+Corian,Preston,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Corian,Reading,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Corian,Rosslyn,,,Call,,,,,,,0,
+Corian,Sanford,,Manilla,4231,140,100,232,215,175,0,0,Primary
+Corian,Sharpham,,,Call,,,,,,,0,
+Corian,Sheffield,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Corian,Shirebrook,,,Call,,,,,,,0,
+Corian,Snowdon,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Corian,Somerset,,Hazel,4432,135,92,100,61,37,0,1,Alternate
+Corian,Southampton,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Corian,Stafford Brown,,,Call,,,,,,,0,
+Corian,Sussex,,,Call,,,,,,,0,
+Corian,Sutton,,Beach,4230,112,100,208,186,148,3,0,Primary
+Corian,Talbot Grey,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Corian,Templeton,,Snow,4108,162,100,243,246,236,0,0,Alternate
+Corian,Tenby Cream,,Beach,4230,112,100,208,186,148,3,0,Primary
+Corian,Torquay,,,Call,,,,,,,0,
+Corian,Victoria,,Beach,4230,112,100,208,186,148,3,0,Primary
+Corian,Waterford,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Corian,Waverton,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Wellington,,,Call,,,,,,,0,
+Corian,Welshpool Black,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Corian,Westminster,,,Call,,,,,,,0,
+Corian,Whitecliff,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Corian,Whitehall,,,Call,,,,,,,0,
+Corian,Whitney,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Corian,Williston,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Corian,Wilshire Red,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Corian,Winchester,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Corian,Windermere,,,Call,,,,,,,0,
+Corian,Windsor,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Corian,Yorkshire,,Flax,4627,0,0,0,0,0,0,1,Primary
+Corian,Abalone,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Acadia,,,Call,,,,,,,0,
+Corian,Acorn,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Acorn,,Latte,4312,138,100,165,144,113,4,0,Alternate
+Corian,Adobe,,Adobe,4608,0,0,0,0,0,0,1,Primary
+Corian,Adobe,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Corian,Allspice,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Corian,Aloe Vera,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Aloe Vera,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Corian,Antarctica,,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Corian,Antarctica,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Anthracite,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Corian,Anthracite,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Corian,Aqua,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Corian,Aqualite,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Aqualite,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Corian,Arctic Blueberry,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Corian,Arctic Ice,,Satin,4110,158,100,239,242,232,2.5,0,Primary
+Corian,Arctic Ice,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Arctic Lime,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Corian,Arctic Mint,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Corian,Arctic Strawberry,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Corian,Arrowroot,,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Corian,Arrowroot,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Aruba,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Corian,Aruba,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Corian,Atlantis,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Corian,Atlantis,,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Corian,Aubergine,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Corian,Aubergine,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Corian,Aurora,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Aurora,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Aztec Gold,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Aztec Gold,,Gold,4609,0,0,0,0,0,0,1,Primary
+Corian,Azure,,Clear,4000,121,50,253,253,252,1,0,Primary
+Corian,Azure,,Ocean,4614,0,0,0,0,0,0,1,Primary
+Corian,Azurite,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Corian,Basil,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Basil,,Hazel,4432,135,92,100,61,37,0,1,Primary
+Corian,Beach,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Beach,,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Corian,Beach Glass,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Bedford Marble,,,Call,,,,,,,0,
+Corian,Beige Fieldstone,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Beige Fieldstone,,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Corian,Bethany,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Corian,Bisque,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Black Quartz,,Coal,4530,123,72,0,0,0,1.5,1,Primary
+Corian,Black Quartz,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Corian,Blackberry Ice,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Corian,Blackberry Ice,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Corian,Blizzard,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Blizzard,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Blue Crush,,,Call,,,,,,,0,Alternate
+Corian,Blue Pebble,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Blue Pebble,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Corian,Blue Ridge,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Corian,Blue Spice,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Corian,Blue Spice,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Corian,Blueberry Ice,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Corian,Bone,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Bone,,Buff,4210,114,86,246,241,208,2.5,0,Primary
+Corian,Bronze Patina,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Corian,Bronze Patina,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Corian,Bronzite,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Corian,Bronzite,,Pudding,4606,154,88,45,39,18,3,1,Alternate
+Corian,Burled Beach,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Burled Beach,,Beach,4230,112,100,208,186,148,3,0,Primary
+Corian,Burnt Amber,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Corian,Burnt Amber,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Corian,Butter Cream,,Snow,4108,162,100,243,246,236,0,0,Primary
+Corian,Butter Cream,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Camel,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Camel,,Camel,4610,0,0,0,0,0,0,1,Primary
+Corian,Cameo White,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Canvas,,Stone,4222,164,85,214,204,186,3,0,Primary
+Corian,Canvas,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Canyon,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Corian,Carribean,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Chamois,,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Corian,Champagne,,,Call,,,,,,,0,
+Corian,Cilantro,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Cilantro,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Corian,Cinnabar,,Rust,4424,156,91,118,62,31,4,1,Primary
+Corian,Cirrus White,,Chalk,4100,119,100,253,253,252,4,0,Primary
+Corian,Cirrus White,,Bright,4102,0,0,0,0,0,0,1,Alternate
+Corian,Clam Shell,,Stone,4222,164,85,214,204,186,3,0,Primary
+Corian,Clam Shell,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Clove,,Rust,4424,156,91,118,62,31,4,1,Primary
+Corian,Clove,,Clove,4611,0,0,0,0,0,0,1,Primary
+Corian,Cobalt,,Clear,4000,121,50,253,253,252,1,0,Primary
+Corian,Cobalt,,Ocean,4614,0,0,0,0,0,0,1,Primary
+Corian,Cocoa Brown,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Corian,Cocoa Brown,,Auburn,4330,111,100,71,58,57,5,1,Primary
+Corian,Concrete,,Cream,4232,127,100,211,201,177,4,0,Primary
+Corian,Copperite,,Clove,4611,0,0,0,0,0,0,1,Primary
+Corian,Copperite,,Rust,4424,156,91,118,62,31,4,1,Alternate
+Corian,Cottage Lane,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Cottage Lane,,Stone,4222,164,85,214,204,186,3,0,Primary
+Corian,Deep Sea,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Corian,Deep Sea,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Corian,Delta Sand,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Delta Sand,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Desert,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Corian,Desert,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Corian,Desert Springs,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Desert Springs,,Canvas,4112,117,100,234,237,227,3.5,0,Alternate
+Corian,Designer White,,Chalk,4100,119,100,253,253,252,4,0,Primary
+Corian,Designer White,,Chalk,4100,119,100,253,253,252,4,0,Primary
+Corian,Doeskin,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Corian,Doeskin,,Sonora,4317,163,100,172,157,135,0,0,Primary
+Corian,Dove,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Dove,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Corian,Dusk,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Dusk,,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+Corian,Earth,,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Corian,Eclipse,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Corian,Eclipse,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Ecru,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Corian,Ecru,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Corian,Egyptian Copper,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Egyptian Copper,,Copper,4418,125,91,143,89,34,0,1,Primary
+Corian,Elderberry,,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Corian,Elderberry,,Ocean,4614,0,0,0,0,0,0,1,Primary
+Corian,Emerald,,Clear,4000,121,50,253,253,252,1,0,Primary
+Corian,Emerald,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Corian,Everest,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Evergreen,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Corian,Fawn,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Fawn,,Willow,4314,170,100,183,171,143,0,0,Primary
+Corian,Festival,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Corian,Festival,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Corian,Flint,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Corian,Flint,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Corian,Fossil,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Corian,Fossil,,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Corian,Glacier Ice,,Snow,4108,162,100,243,246,236,0,0,Primary
+Corian,Glacier Ice,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Glacier White,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Corian,Gobi,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Corian,Granola,,Natural,4214,147,89,255,255,255,3,0,Primary
+Corian,Granola,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Corian,Graphite Blue,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Corian,Graphite Blue,,Ocean,4614,0,0,0,0,0,0,1,Primary
+Corian,Gravel,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Corian,Gray Fieldstone,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Corian,Gray Fieldstone,,Pewter,4518,152,90,146,136,119,3.5,0,Alternate
+Corian,Graylite,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Corian,Graylite,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Corian,Green Tea,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Green Tea,,Snow,4108,162,100,243,246,236,0,0,Alternate
+Corian,Hazelnut,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Corian,Hickory Smoke,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Corian,Hickory Smoke,,Gold,4609,0,0,0,0,0,0,1,Primary
+Corian,Hot,,Hot,4617,0,0,0,0,0,0,1,Primary
+Corian,Jasmine,,Newport,4116,148,90,228,228,228,0,0,Primary
+Corian,Jasmine,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Corian,Juniper,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Corian,Juniper,,Slate,4512,160,99,154,140,125,2.5,0,Alternate
+Dekton,Kilimanjaro,,,Call,,,,,,,0,Alternate
+Dekton,Kiwi,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Dekton,Kiwi,,Kiwi,4620,0,0,0,0,0,0,1,Primary
+Dekton,Laurel Branch,,,Call,,,,,,,0,
+Dekton,Lava Rock,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Dekton,Lava Rock,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Dekton,Lavendar,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Dekton,Lilac,,Lilac,4618,0,0,0,0,0,0,1,Primary
+Dekton,Lilac,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Dekton,Lime Ice,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Diresco,Linen,,Natural,4214,147,89,255,255,255,3,0,Primary
+Diresco,Macadam,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Diresco,Macadam,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Diresco,Malachite,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Diresco,Mandarin,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Diresco,Mandarin,,Mandarin,4619,0,0,0,0,0,0,1,Primary
+Diresco,Mardi Gras,,Coal,4530,123,72,0,0,0,1.5,1,Primary
+Diresco,Mardi Gras,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Diresco,Matterhorn,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Diresco,Matterhorn,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Diresco,Maui,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Diresco,Maui,,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Diresco,Medea,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Diresco,Medea,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Diresco,Mediterranean,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Diresco,Mediterranean,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Diresco,Midnight,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Diresco,Midnight,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Diresco,Mineral,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Diresco,Mineral,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Diresco,Mint Ice,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Diresco,Mojave,,Natural,4214,147,89,255,255,255,3,0,Primary
+Diresco,Mojave,,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Diresco,Mont Blanc,,Natural,4214,147,89,255,255,255,3,0,Primary
+Diresco,Mont Blanc,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+DuraLosa,Mosaic,,,Call,,,,,,,0,
+DuraLosa,Moss,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+DuraLosa,Moss,,Olive,4520,149,91,74,63,37,0,1,Primary
+DuraLosa,Natural Gray,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+DuraLosa,Natural Pearl,,Natural,4214,147,89,255,255,255,3,0,Primary
+DuraLosa,Natural Pearl,,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+DuraLosa,Night Sky,,Coal,4530,123,72,0,0,0,1.5,1,Primary
+DuraLosa,Night Sky,,Midnight,4532,143,100,0,0,0,4,1,Primary
+DuraLosa,Nocturne,,Coal,4530,123,72,0,0,0,1.5,1,Primary
+DuraLosa,Nocturne,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+DuraLosa,Oat,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+EcoTec,Oceanic,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+EcoTec,Oceanic,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+EcoTec,Ochre,,Fawn,4316,131,100,148,125,96,3,0,Primary
+EcoTec,Olive,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+EcoTec,Olivite,,Oregano,4636,0,0,0,0,0,0,1,Primary
+EcoTec,Olivite,,Olive,4520,149,91,74,63,37,0,1,Alternate
+EcoTec,Oyster,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+EcoTec,Oyster,,Stone,4222,164,85,214,204,186,3,0,Primary
+EcoTec,Peach,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+EcoTec,Peach,,Natural,4214,147,89,255,255,255,3,0,Primary
+EcoTec,Pearl Gray,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+EcoTec,Pebble,,Fawn,4316,131,100,148,125,96,3,0,Primary
+EcoTec,Pebble,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+EOS,Pepper Ivory,,Natural,4214,147,89,255,255,255,3,0,Primary
+EOS,Pepper Ivory,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+EOS,Pewter,,,Call,,,,,,,0,
+EOS,Piazza,,,Call,,,,,,,0,
+EOS,Pine,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+EOS,Pine,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+EOS,Platinum,,Natural,4214,147,89,255,255,255,3,0,Primary
+EOS,Platinum,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+EOS,Pompeii Red,,Maroon,4613,0,0,0,0,0,0,1,Primary
+EOS,Pompeii Red,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+EOS,Prairie,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+EOS,Prairie,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+EOS,Primrose,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+EOS,Primrose,,Natural,4214,147,89,255,255,255,3,0,Primary
+EOS,Pyrenees,,Natural,4214,147,89,255,255,255,3,0,Primary
+EOS,Raffia,,Manilla,4231,140,100,232,215,175,0,0,Primary
+EOS,Raffia,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+EOS,Rain Cloud,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+EOS,Rain Forest,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+EOS,Rain Forest,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+EOS,Ravine,,,Call,,,,,,,0,
+EOS,Raw Silk,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+EOS,Raw Silk,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+EOS,Rice Paper,,Glacier,4111,134,90,253,253,252,3,0,Primary
+EOS,Rice Paper,,Glacier,4111,134,90,253,253,252,3,0,Primary
+EOS,Riviera,,Beige,4228,113,100,211,189,151,3,0,Primary
+EOS,Riviera,,Natural,4214,147,89,255,255,255,3,0,Primary
+EOS,Rosemary,,Natural,4214,147,89,255,255,255,3,0,Primary
+EOS,Rosemary,,Willow,4314,170,100,183,171,143,0,0,Primary
+EOS,Rosetta,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Fiandre - StonePeak,Rosetta,,Natural,4214,147,89,255,255,255,3,0,Primary
+Fiandre - StonePeak,Ruby,,Auburn,4330,111,100,71,58,57,5,1,Primary
+Fiandre - StonePeak,Ruby,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Fiandre - StonePeak,Rye,,Natural,4214,147,89,255,255,255,3,0,Primary
+Fiandre - StonePeak,Rye,,Beige,4228,113,100,211,189,151,3,0,Primary
+Fiandre - StonePeak,Saffron,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Fiandre - StonePeak,Saffron,,Natural,4214,147,89,255,255,255,3,0,Primary
+Fiandre - StonePeak,Sage,,,Call,,,,,,,0,
+Fiandre - StonePeak,Sage Graystone,,,Call,,,,,,,0,
+Fiandre - StonePeak,Sagebrush,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Fiandre - StonePeak,Sagebrush,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Formica,Sahara,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Sand,,Beige,4228,113,100,211,189,151,3,0,Primary
+Formica,Sand,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Formica,Sandalwood,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Sandstone,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Sandstone,,Stone,4222,164,85,214,204,186,3,0,Primary
+Formica,Savannah,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Sea Salt,,,Call,,,,,,,0,
+Formica,Seafoam,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Formica,Seagrass,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Formica,Seashell,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Seashell,,Cream,4232,127,100,211,201,177,4,0,Primary
+Formica,Sequoia,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Formica,Serene Sage,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Formica,Shale,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Formica,Shoreline,,,Call,,,,,,,0,
+Formica,Silt,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Formica,Silt,,Lava,4521,139,100,87,86,77,4.5,1,Alternate
+Formica,Silver Birch,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Formica,Silver Gray,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Silver Gray,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Formica,Silverite,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Silverite,,Newport,4116,148,90,228,228,228,0,0,Alternate
+Formica,Slate,,,Call,,,,,,,0,
+Formica,Sonora,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Formica,Sonora,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Formica,Sorrel,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Formica,Sorrel,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Formica,Spruce,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Formica,Spruce,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Formica,Stardust,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Formica,Stardust,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Stone Harbor,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Formica,Stone Harbor,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Formica,Stone Washed,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Formica,Storm Blue,,Ocean,4614,0,0,0,0,0,0,1,Primary
+Formica,Storm Blue,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Formica,Strawberry Ice,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Formica,Suede,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Formica,Sun,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Sun,,Sun,4615,0,0,0,0,0,0,1,Primary
+Formica,Sunset,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Formica,Tarragon,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Tarragon,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Formica,Tea Rose,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Formica,Terra,,,Call,,,,,,,0,
+Formica,Thyme,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Formica,Thyme,,Hazel,4432,135,92,100,61,37,0,1,Alternate
+Formica,Tranquil,,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Formica,Tranquil,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Formica,Tumbled Glas,,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Formica,Tumbled Glas,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Formica,Tumbleweed,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Formica,Tumbleweed,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Formica,Tundra,,,Call,,,,,,,0,
+Formica,Vanilla,,Antique,4109,109,97,255,247,240,3.5,0,Primary
+Formica,Vanilla,,Vanilla,4105,169,95,234,237,227,0,0,Alternate
+Formica,Venaro White,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Formica,Verde,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Verde,,Verde,4616,0,0,0,0,0,0,1,Primary
+Formica,Warm Soapstone,,,Call,,,,,,,0,
+Formica,Whipped Cream,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Whipped Cream,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Whisper,,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Formica,Whisper,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Formica,White Jasmine,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Formica,White Jasmine,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Formica,Whitecap,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Formica,Whitecap,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Formica,Willow,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Formica,Willow,,Stone,4222,164,85,214,204,186,3,0,Primary
+Formica,Winter Wheat,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Formica,Winter Wheat,,Stone,4222,164,85,214,204,186,3,0,Primary
+Formica,Witch Hazel,,Natural,4214,147,89,255,255,255,3,0,Primary
+Formica,Ananke,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Formica,Ariane,,Winter,4101,171,90,253,253,252,3,0,Primary
+Formica,Danae,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Formica,Domoos,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Formica,Kadum,,Auburn,4330,111,100,71,58,57,5,1,Primary
+Formica,Keranium,,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Formica,Sirius,,Roast,4332,155,92,53,48,43,4.5,1,Alternate
+Formica,Sirocco,,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+Formica,Strato,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Formica,Zenith,,Winter,4101,171,90,253,253,252,3,0,Primary
+Formica,Beach Black,A075,Midnight,4532,143,100,0,0,0,4,1,Primary
+Formica,Beach Dark Grey,A650,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Formica,Beach Iceberg,A300,Winter,4101,171,90,253,253,252,3,0,Primary
+Formica,Beach Medium Grey,A600,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Formica,Beach Taupe,A700,Pudding,4606,154,88,45,39,18,3,1,Primary
+Formica,Beach White,A200,Winter,4101,171,90,253,253,252,3,0,Primary
+Formica,Belgian Blue,B007,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Formica,Belgian Buxy Grey,B008,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Formica,Belgian Orinoco Brown,B010,Pudding,4606,154,88,45,39,18,3,1,Primary
+Formica,Divinity Beige,A047,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Formica,Divinity Black,A035,Midnight,4532,143,100,0,0,0,4,1,Primary
+Formica,Divinity Clay,A058,Fawn,4316,131,100,148,125,96,3,0,Primary
+Formica,Divinity Crema,A056,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Formica,Divinity Crema,A056,Earth,4628,0,0,0,0,0,0,1,Primary
+Formica,Divinity Ivory,A052,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Formica,Divinity White,A054,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Formica,Misty Bruna,A019,Pudding,4606,154,88,45,39,18,3,1,Alternate
+Formica,Misty Caramel,A021,Fawn,4316,131,100,148,125,96,3,0,Primary
+Formica,Premium Cobalt Grey,P600,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Formica,Premium Cotton Beige,P100,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Formica,Premium Cotton Beige,P100,Flax,4627,0,0,0,0,0,0,1,Primary
+Formica,Premium Cuba Brown,P300,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Formica,Premium Dolphin Grey,P500,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Formica,Pure White,A250,Glacier,4111,134,90,253,253,252,3,0,Primary
+Formica,Risotto Brown,A550,Mocha,4322,146,95,95,68,53,4,1,Primary
+Formica,Risotto Crema,A500,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Formica,Supreme White,S100,Winter,4101,171,90,253,253,252,3,0,Primary
+Formica,Avena,,Winter,4101,171,90,253,253,252,3,0,Primary
+Formica,Canela,,Winter,4101,171,90,253,253,252,3,0,Primary
+Formica,Casca,,Toscana,4648,167,93,36,26,20,4,1,Primary
+Formica,Castano,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Formica,Cervato,,Winter,4101,171,90,253,253,252,3,0,Primary
+Formica,Cuero,,Sonora,4317,163,100,172,157,135,0,0,Primary
+Formica,Ebano,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Formica,Piedra,,Lava,4521,139,100,87,86,77,4.5,1,Alternate
+Formica,Pizarra,,Sonora,4317,163,100,172,157,135,0,0,Primary
+Formica,Rustico,,Toscana,4648,167,93,36,26,20,4,1,Primary
+Formica,Sombra,,Cloud,4118,122,98,250,250,248,3.5,0,Alternate
+Formica,Aztec,,Rust,4424,156,91,118,62,31,4,1,Primary
+Formica,Beach,,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Formica,Carnival,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Formica,Cinnimon,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Formica,Desert,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Formica,French Vanilla,,Satin,4110,158,100,239,242,232,2.5,0,Primary
+Formica,Graphite,,Pewter,4518,152,90,146,136,119,3.5,0,Alternate
+Formica,Havana,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Formica,Mossy Creek,,Olive,4520,149,91,74,63,37,0,1,Primary
+Formica,Quarry Stone,,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Formica,Sand,,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Formica,Sand Dune,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Formica,Sand Pebbles,,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Gemstone,Acadia,,,Call,,,,,,,0,
+Gemstone,Alleghany,,,Call,,,,,,,0,
+Gemstone,Astoria,,,Call,,,,,,,0,
+Gemstone,Barrington,,Latte,4312,138,100,165,144,113,4,0,Primary
+Gemstone,Bristol,,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Gemstone,Cardiff,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Gemstone,Carmel,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Gemstone,Del Mar,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Gemstone,Desert Pebble,,,Call,,,,,,,0,
+GEOS,Dover,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+GEOS,Dune Sand,,,Call,,,,,,,0,
+GEOS,Duxbury,,,Call,,,,,,,0,
+GEOS,Galveston,,Beach,4230,112,100,208,186,148,3,0,Primary
+GEOS,Glacier White,,Winter,4101,171,90,253,253,252,3,0,Primary
+GEOS,Green Pebble,,,Call,,,,,,,0,
+GEOS,Grey Pebble,,,Call,,,,,,,0,
+GEOS,Halifax,,Cream,4232,127,100,211,201,177,4,0,Primary
+GEOS,Hatteras,,Stone,4222,164,85,214,204,186,3,0,Primary
+GEOS,Malibu,,Natural,4214,147,89,255,255,255,3,0,Primary
+GEOS,Marine Pebble,,,Call,,,,,,,0,
+GEOS,Montauk,,Pudding,4606,154,88,45,39,18,3,1,Alternate
+GEOS,Monterey,,,Call,,,,,,,0,
+Hanex,Newport,,Cream,4232,127,100,211,201,177,4,0,Primary
+Hanex,Pacifica,,,Call,,,,,,,0,
+Hanex,Piedmont,,,Call,,,,,,,0,
+Hanex,Portland,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Hanex,Sanbridge,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanex,Sonoma,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Hanex,Tacoma,,,Call,,,,,,,0,
+Hanex,White Pebble,,,Call,,,,,,,0,
+Hanex,Calacatta Vena Honed,,Natural,4214,147,89,255,255,255,3,0,Primary
+Hanex,Copper Plane Chrome,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Hanex,Fantasy Bright Polish,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Hanex,Fantasy Cloud,,Natural,4214,147,89,255,255,255,3,0,Primary
+Hanex,Fantasy Gold Polish,,Natural,4214,147,89,255,255,255,3,0,Primary
+Hanex,Paonazzetto Vena Polish,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Hanex,Silver Plane,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Hanex,Travertino Vena Polish,,Natural,4214,147,89,255,255,255,3,0,Primary
+Hanex,True Black Polish,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Hanex,True White Polish,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Hanex,White Plane,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Hanex,All That Jazz,407,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Hanex,Almondine,101,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Hanex,Amarillo Gold Silica,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Hanex,Amber Graniti,388,Latte,4312,138,100,165,144,113,4,0,Alternate
+Hanex,Amber Mica,903,Copper,4418,125,91,143,89,34,0,1,Primary
+Hanex,Amethyst Mosaic,653,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Hanex,Arctic,102,Winter,4101,171,90,253,253,252,3,0,Primary
+Hanex,Basilica,503,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Hanex,Bianco Mineral,758,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Hanex,Bianco Quartz,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Hanex,Birch Spex,935,Cream,4232,127,100,211,201,177,4,0,Primary
+Hanex,Biscuit Spex,932,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanex,Black Galaxy Quartz,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Hanex,Black Impala Quartz,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Hanex,Black Lava,501,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Hanex,Black Matrix,324,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Hanex,Blanca Silica,,Fashion,4702,0,0,0,0,0,0,1,Primary
+Hanex,Blanco Terrazzo,742,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Hanex,Bleached Concrete,601,Winter,4101,171,90,253,253,252,3,0,Primary
+Hanex,Botanical Mosaic,654,Smoke,4523,161,55,0,0,0,1.5,1,Primary
+Hanex,Bottle Glass Quartz,770,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Hanex,Bronze,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Hanex,Burlwood Stone,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Hanex,Burnished Artifacts,820,Rust,4424,156,91,118,62,31,4,1,Alternate
+Hanex,Café Quartz,771,Latte,4312,138,100,165,144,113,4,0,Primary
+Hanex,Caramelo Mineral,768,Latte,4312,138,100,165,144,113,4,0,Primary
+Hanex,Caramelo Quartz,,Latte,4312,138,100,165,144,113,4,0,Alternate
+Hanex,Carrara Stone,707,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Hanex,Cayenne Mist,308,Hazel,4432,135,92,100,61,37,0,1,Primary
+Hanex,Chamois Spex,937,Fawn,4316,131,100,148,125,96,3,0,Primary
+Hanex,Chesapeake Express.,717,Natural,4214,147,89,255,255,255,3,0,Primary
+Hanex,Chicory Mosaic,651,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Hanex,Citron Ice,810,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Hanex,Coastal Mosaic,655,Smoke,4523,161,55,0,0,0,1.5,1,Primary
+Hanex,Coffee Quartz,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Hanex,Coffee Silica,783,Nutmeg,4635,0,0,0,0,0,0,1,Primary
+Hanex,Cool Ice,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanex,Copper Artifacts,801,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Hanex,Copper Matrix,334,Rust,4424,156,91,118,62,31,4,1,Primary
+Hanex,Copper Nugget,451,Rust,4424,156,91,118,62,31,4,1,Alternate
+Hanex,Copper Quartz,772,Cream,4232,127,100,211,201,177,4,0,Primary
+Hanex,Cotta Spex,934,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Hanex,Crema Terrazzo,744,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Hanex,Creme Graniti,386,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanex,Dawn Mist,,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Hanex,Dawn Mist,,Natural,4214,147,89,255,255,255,3,0,Primary
+Hanex,Deep Blue Ice,811,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Hanex,Denim Spex,936,Clear,4000,121,50,253,253,252,1,0,Primary
+Hanex,Desert Mist,318,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Hanex,Drift,787,Cream,4232,127,100,211,201,177,4,0,Primary
+Hanex,E Cafe,,Beach,4230,112,100,208,186,148,3,0,Primary
+Hanex,E Earthen,753,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Hanex,E Fog,755,Cream,4232,127,100,211,201,177,4,0,Primary
+Hanex,E Natural,751,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Hanex,E Seed,754,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanex,E Surf,,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Hanex,Ebony Mosaic,650,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Hanex,Fawn Matrix,337,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Hanex,Federal Cornerstone,714,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Hanex,Frost,103,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Hanex,Frost,103,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanex,Giallo Quartz,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Hanex,Ginger Root Mist,306,Latte,4312,138,100,165,144,113,4,0,Primary
+Hanex,Glacier Ore,403,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Hanex,Gold Nugget,450,Copper,4418,125,91,143,89,34,0,1,Alternate
+Hanex,Gothic Cornerstone,715,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Hanex,Graphite,204,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Hanex,Gray Sparkle,779,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Hanex,Gray Striato,776,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Hanex,Greentea Concrete,602,Khaki,4236,137,98,164,145,104,4,0,Primary
+Hanex,Haze Agate,745,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Hanex,Ivory Coast Quartz,,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanex,Jasper Stone,706,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Hanex,Java Cream Silica,,Latte,4312,138,100,165,144,113,4,0,Primary
+Hanex,Labrador Quartz,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Hanex,Lapis Stone,,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Hanex,Limestone Silica,,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanex,Luna Concrete,781,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Hanex,Luna Concrete,781,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanex,Luna Fossil,774,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Hanex,Luna Perla,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Hanex,Luna Sail White,773,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Hanex,Luna Sand,757,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Hanex,Luna Stone,780,Cream,4232,127,100,211,201,177,4,0,Primary
+Hanex,Luna Storm,775,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Hanex,Luna Weather,782,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Hanex,Marine Ice,805,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Hanex,Marron Granite,389,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Hanex,Mineral Mica,909,Mocha,4322,146,95,95,68,53,4,1,Primary
+Hanex,Mirage,733,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Hanex,Mocha Spex,938,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Hanex,Mokka Graniti,387,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanex,Moss Spex,933,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Hanex,Natural Concrete,603,Beach,4230,112,100,208,186,148,3,0,Alternate
+Hanex,Nickel Mica,901,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Hanex,Night Mist,302,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Hanex,Noce Travertine,777,Latte,4312,138,100,165,144,113,4,0,Primary
+Hanex,Noir Stone,,Espresso,4528,130,100,58,58,58,4.5,1,Primary
+Hanex,Nutmeg Classix,331,Cream,4232,127,100,211,201,177,4,0,Primary
+Hanex,Olivene Silica,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Hanstone,Pearl Mica,900,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Hanstone,Pecan Mosaic,652,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Hanstone,Peppercorn Classix,326,Mesa,4604,142,93,39,33,29,4,1,Primary
+Hanstone,Perriwinkle Mist,,Natural,4214,147,89,255,255,255,3,0,Primary
+Hanstone,Pesto Mist,309,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Hanstone,Portabello Aggregate,785,Cream,4232,127,100,211,201,177,4,0,Primary
+Hanstone,Portabello Fine,786,Cream,4232,127,100,211,201,177,4,0,Primary
+Hanstone,Portofino Quartz,,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanstone,Portofino Mineral,766,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Hanstone,Pure Ice,605,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Hanstone,Real Concrete,803,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Hanstone,River Rock Mosaic,656,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Hanstone,Sail White,108,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Hanstone,Saltillo Stone,704,Mocha,4322,146,95,95,68,53,4,1,Primary
+Hanstone,Sandy Mist,304,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Hanstone,Sea Glass,505,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Hanstone,Shell Stone,730,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Hanstone,Sierra Mist,319,Beige,4228,113,100,211,189,151,3,0,Primary
+Hanstone,Silk,107,Vanilla,4105,169,95,234,237,227,0,0,Primary
+Hanstone,Silk Perla,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Hanstone,Silver Stone,,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Hanstone,Silverado,212,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+Hanstone,Slate Blue Classix,,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Hanstone,Smoke Ice,809,Smoke,4523,161,55,0,0,0,1.5,1,Primary
+Hanstone,Soapstone,,Natural,4214,147,89,255,255,255,3,0,Primary
+Hanstone,Soapstone,,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Hanstone,Spa Artifacts,821,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Hanstone,Spanish Artifacts,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Hanstone,Spanish Paprika Mist,307,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Hanstone,Spring Ice Xpressions,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Hanstone,Spruce Mist,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanstone,Tawny Agate,743,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Hanstone,Travertine Quartz,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Hanstone,Treasure Artifacts,802,Rust,4424,156,91,118,62,31,4,1,Primary
+Hanstone,Vapor,783,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Hanstone,Vintage Green Mica,902,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Hanstone,Wheat Matrix,333,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanstone,White Sparkles,778,Milk,4602,144,88,246,246,244,2.5,0,Primary
+Hanstone,White Spex,931,Winter,4101,171,90,253,253,252,3,0,Primary
+Hanstone,Arctic White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Hanstone,Bisque,,Bisque,4706,0,0,0,0,0,0,1,Primary
+Hanstone,Bone,,Bone,4705,0,0,0,0,0,0,1,Primary
+Hanstone,Bright,,Bright,4102,0,0,0,0,0,0,1,Primary
+Hanstone,Bright White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Hanstone,Fashion,,Fashion,4702,0,0,0,0,0,0,1,Alternate
+Hanstone,Ivory,,Fashion,4702,0,0,0,0,0,0,1,Primary
+Hanstone,Soft White,,Soft White,4703,0,0,0,0,0,0,1,Primary
+Hanstone,Winter White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Hanstone,Asheville,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Hanstone,Aspen,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Hanstone,Auckland,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Hanstone,Avalon,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanstone,Birch,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanstone,Fairfax,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Hanstone,Kona,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Hanstone,Lake Shell,,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanstone,Marina,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanstone,Ocean Shell,,Stone,4222,164,85,214,204,186,3,0,Primary
+Hanstone,Redrock,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Hanstone,St Lawrence,,Khaki,4236,137,98,164,145,104,4,0,Alternate
+Hanstone,Wheat,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Hanstone,After Snow,HL-708,Winter,4101,171,90,253,253,252,3,0,Primary
+Hanstone,Alaska,HL-055,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanstone,Amber,HL-038,Fawn,4316,131,100,148,125,96,3,0,Primary
+Hanstone,Andromeda,GL-004,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Hanstone,Applegreen,,,Call,,,,,,,0,
+Hanstone,Aqua Marine,HL-508,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Hanstone,Aqueous,S-014,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Hanstone,Atlantic Blue,HL-701,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Hanstone,Aura,B-024,Pudding,4606,154,88,45,39,18,3,1,Primary
+Hanstone,Basilica,B-004,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Hanstone,Basilica,B-004,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Hanstone,Bayleaf,HL-501,Olive,4520,149,91,74,63,37,0,1,Primary
+Hanstone,Bayleaf,HL-501,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Hanstone,Beige Breeze,S-018,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Hanstone,Bosque,B-013,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanstone,Brook Chase,HL-605,Pudding,4606,154,88,45,39,18,3,1,Primary
+Hanstone,Casablanca,,,Call,,,,,,,0,
+Hanstone,Celadon,BL-002,Winter,4101,171,90,253,253,252,3,0,Alternate
+Hanstone,Chestnut,HL-601,Pudding,4606,154,88,45,39,18,3,1,Primary
+Hanstone,Chiffon,HL-062,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanstone,Coldstone,T-098,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Hanstone,Copper Black,B-040,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Harmony,Cottonwood,HL-607,Natural,4214,147,89,255,255,255,3,0,Primary
+Harmony,Creama,HL-610,Stone,4222,164,85,214,204,186,3,0,Primary
+Harmony,Cubic Ivory,,,Call,,,,,,,0,
+Harmony,Cubic Multi,,,Call,,,,,,,0,
+Harmony,Cubic Transblanc,HL-053,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Harmony,Cubic White,,,Call,,,,,,,0,
+Harmony,Cumulus,BL-016,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Harmony,Cumulus,BL-016,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Harmony,Dancing Quartz,B-016,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Harmony,Dancing Quartz,B-016,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Harmony,Desert Castle,HL-710,Pudding,4606,154,88,45,39,18,3,1,Primary
+Harmony,Desert Walk,HL-510,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Harmony,Desert Walk,HL-510,Natural,4214,147,89,255,255,255,3,0,Primary
+Harmony,Dew,,,Call,,,,,,,0,
+Harmony,Dijon Beige,HL-507,Natural,4214,147,89,255,255,255,3,0,Primary
+Harmony,Dijon Beige,HL-507,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Harmony,Eclipse,HL-039,Midnight,4532,143,100,0,0,0,4,1,Primary
+Harmony,Epilogue,B-005,Pudding,4606,154,88,45,39,18,3,1,Primary
+Harmony,Fantasia,HL-056,Midnight,4532,143,100,0,0,0,4,1,Primary
+Harmony,Florida Beach,B-032,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Harmony,Ginger Bread,RE-04,Fawn,4316,131,100,148,125,96,3,0,Primary
+Harmony,Gold Brown,HL-023,Natural,4214,147,89,255,255,255,3,0,Alternate
+Harmony,Gold Brown,HL-023,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Harmony,Goldengate,,,Call,,,,,,,0,
+Harmony,Greypearl,,,Call,,,,,,,0,
+Harmony,H Blanche,,,Call,,,,,,,0,
+Harmony,H Brown,,,Call,,,,,,,0,
+Harmony,H Cloudy,HL-048,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Harmony,H Eldorado,HL-041,Natural,4214,147,89,255,255,255,3,0,Primary
+Harmony,H Eldorado,HL-041,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Harmony,H Elegance,HL-049,Natural,4214,147,89,255,255,255,3,0,Alternate
+Harmony,H Elegance,HL-049,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Harmony,H Grey,,,Call,,,,,,,0,
+Harmony,H Indigo Blue,HL-047,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Harmony,H Indigo Blue,HL-047,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Harmony,H Ivory,HL-043,Natural,4214,147,89,255,255,255,3,0,Primary
+Harmony,H Ivory,HL-043,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Harmony,H Redrock,HL-042,Natural,4214,147,89,255,255,255,3,0,Primary
+Harmony,H Redrock,HL-042,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Harmony,H Sandcopper,HL-050,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Harmony,H Sandcopper,HL-050,Rust,4424,156,91,118,62,31,4,1,Alternate
+Harmony,Harvest Moon,HL-702,Natural,4214,147,89,255,255,255,3,0,Alternate
+Harmony,Havana Sand,HL-703,Natural,4214,147,89,255,255,255,3,0,Primary
+Harmony,Hazelnut,HL-604,Pudding,4606,154,88,45,39,18,3,1,Primary
+Harmony,Helsinki,B-031,Winter,4101,171,90,253,253,252,3,0,Primary
+Harmony,Honey Wheat,HL-704,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Harmony,Honey Wheat,HL-704,Natural,4214,147,89,255,255,255,3,0,Alternate
+Harmony,Hydra,S-013,Misty,4220,145,84,231,234,224,2.5,0,Primary
+I-Stone V-korr,Iceland,,,Call,,,,,,,0,
+I-Stone V-korr,Ivory,HL-002,Natural,4214,147,89,255,255,255,3,0,Primary
+I-Stone V-korr,Ivory Essence,HL-002,Fog,4200,133,88,250,250,248,2.5,0,Primary
+I-Stone V-korr,Latierra,BL-009,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+I-Stone V-korr,Leche,B-028,Stone,4222,164,85,214,204,186,3,0,Primary
+I-Stone V-korr,Libra,GL-003,Misty,4220,145,84,231,234,224,2.5,0,Primary
+I-Stone V-korr,Lightbrown,HL-031,Natural,4214,147,89,255,255,255,3,0,Alternate
+I-Stone V-korr,Lightgreen,HL-024,Natural,4214,147,89,255,255,255,3,0,Primary
+I-Stone V-korr,Lightgreen,HL-024,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+I-Stone V-korr,Maple Wood,BL-006,Fog,4200,133,88,250,250,248,2.5,0,Primary
+I-Stone V-korr,Mayfair,BL-007,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+I-Stone V-korr,Meadow Creek,HL-606,Natural,4214,147,89,255,255,255,3,0,Primary
+I-Stone V-korr,Metal Grey,P-002,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+I-Stone V-korr,Milkyway,,,Call,,,,,,,0,
+I-Stone V-korr,Mist,HL-027,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+I-Stone V-korr,Mist,HL-027,Natural,4214,147,89,255,255,255,3,0,Alternate
+I-Stone V-korr,Mistery,,,Call,,,,,,,0,
+I-Stone V-korr,Mono Vista,B-003,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+I-Stone V-korr,Navajo,HL-505,Natural,4214,147,89,255,255,255,3,0,Primary
+I-Stone V-korr,Navajo,HL-505,Beige,4228,113,100,211,189,151,3,0,Primary
+I-Stone V-korr,Navyblue,,,Call,,,,,,,0,
+I-Stone V-korr,Neo Grey,,,Call,,,,,,,0,
+I-Stone V-korr,Neo White,HL-003,Winter,4101,171,90,253,253,252,3,0,Primary
+I-Stone V-korr,Night Shadow,HL-609,Midnight,4532,143,100,0,0,0,4,1,Primary
+I-Stone V-korr,Nightlight,,,Call,,,,,,,0,
+I-Stone V-korr,Noblegreen,,,Call,,,,,,,0,
+I-Stone V-korr,Olive Garden,HL-709,Misty,4220,145,84,231,234,224,2.5,0,Primary
+I-Stone V-korr,Olive Green,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+I-Stone V-korr,Olive Green,,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+I-Stone V-korr,Orange Moon,B-022,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Laminex,Orange Moon,B-022,Mocha,4322,146,95,95,68,53,4,1,Alternate
+Laminex,Orchid,HL-502,Natural,4214,147,89,255,255,255,3,0,Primary
+Laminex,Oslo White,B-012,Winter,4101,171,90,253,253,252,3,0,Primary
+Laminex,Peachdust,,,Call,,,,,,,0,
+Laminex,Pearl Black,,,Call,,,,,,,0,
+Laminex,Pegasus,GL-001,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Laminex,Piedmont,B-021,Natural,4214,147,89,255,255,255,3,0,Alternate
+Laminex,Pietra Panna,BL-003,Stone,4222,164,85,214,204,186,3,0,Primary
+Laminex,Pinetree,HL-025,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Laminex,Pinetree,HL-025,Thunder,4522,165,100,82,82,82,4.5,1,Alternate
+Laminex,Ponderosa,HL-602,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Laminex,Ponderosa,HL-602,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Laminex,Prima,B-002,Stone,4222,164,85,214,204,186,3,0,Primary
+Laminex,Purple,,,Call,,,,,,,0,
+Laminex,Rhythmic Shine,B-019,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Laminex,Rhythmic Shine,B-019,Khaki,4236,137,98,164,145,104,4,0,Primary
+Laminex,Ricecookie,T-068,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Laminex,Royal Black,HL-705,Midnight,4532,143,100,0,0,0,4,1,Primary
+Laminex,Sandbank,HL-028,Natural,4214,147,89,255,255,255,3,0,Primary
+Laminex,Sandbank,HL-028,Beige,4228,113,100,211,189,151,3,0,Primary
+Laminex,Shasta,HL-506,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Laminex,Shasta,HL-506,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Laminex,Siesta,B-020,Natural,4214,147,89,255,255,255,3,0,Primary
+Laminex,Siesta,B-020,Beige,4228,113,100,211,189,151,3,0,Primary
+Laminex,Silverstone,HL-021,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Laminex,Stone Hedge,HL-608,Natural,4214,147,89,255,255,255,3,0,Primary
+Laminex,Stone Hedge,HL-608,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Laminex,Taurus,GL-005,Rust,4424,156,91,118,62,31,4,1,Primary
+Laminex,Taurus,GL-005,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Laminex,Terra Sienna,HL-706,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Laminex,Terracotta,BL-010,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Laminex,Terracotta,BL-010,Mocha,4322,146,95,95,68,53,4,1,Primary
+Laminex,Tierra,B-030,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Laminex,Timberland,HL-603,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Laminex,Transjaune,,,Call,,,,,,,0,
+Laminex,Trebarro,BL-005,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Laminex,Tribella,B-009,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Laminex,Tumoro,B-025,,Call,,,,,,,0,
+Laminex,Turquoise,HL-503,Natural,4214,147,89,255,255,255,3,0,Primary
+Laminex,Vineyard,HL-504,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Laminex,White,HL-001,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Laminex,Whitenight,,,Call,,,,,,,0,
+Laminex,Wild Fire,B-039,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Laminex,Wild Safari,B-038,Fawn,4316,131,100,148,125,96,3,0,Primary
+Laminex,Wine Black,BL-012,Midnight,4532,143,100,0,0,0,4,1,Primary
+Laminex,Wintergreen,HL-707,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Laminex,Yuri Grey,RE-05,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Laminex,Ajanta,RM504,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Laminex,Alexandria,RU606,Mesa,4604,142,93,39,33,29,4,1,Primary
+Laminex,Almond Quartz,,,Call,,,,,,,0,
+Laminex,Amazon Green,RS318,,Call,,,,,,,0,
+Laminex,Antique Sable,RS334,Midnight,4532,143,100,0,0,0,4,1,Primary
+Laminex,Aspen,RU601,Winter,4101,171,90,253,253,252,3,0,Primary
+Laminex,Aurora Snow,CL101,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Laminex,Autumn Leaf,RS305,Dune,4310,128,100,199,173,139,3.5,0,Primary
+LG HiMacs,Basento,RU604,Mesa,4604,142,93,39,33,29,4,1,Primary
+LG HiMacs,Bavaria,BT351,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+LG HiMacs,Bianco Canvas,BA201,Marble,4106,141,88,246,246,244,3.5,0,Primary
+LG HiMacs,Black Coral,RS306,Midnight,4532,143,100,0,0,0,4,1,Alternate
+LG HiMacs,Blackburn,RS401,,Call,,,,,,,0,
+LG HiMacs,Blue Lagoon,RS311,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Capri,MV617,,Call,,,,,,,0,
+LG HiMacs,Caribbean Blue,RS316,Latte,4312,138,100,165,144,113,4,0,Primary
+LG HiMacs,Champagne Pearl,CL102,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+LG HiMacs,Chocolate Cognac,RS315,Dune,4310,128,100,199,173,139,3.5,0,Primary
+LG HiMacs,Copper Canyon,,,Call,,,,,,,0,
+LG HiMacs,Coral Mist,BT315,Mesa,4604,142,93,39,33,29,4,1,Primary
+LG HiMacs,Coronado,RS324,Copper,4418,125,91,143,89,34,0,1,Primary
+LG HiMacs,Crema Palace,,,Call,,,,,,,0,
+LG HiMacs,Ebony Field,,,Call,,,,,,,0,
+LG HiMacs,Emerald Isle,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+LG HiMacs,English Toffee,RS462,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+LG HiMacs,Genesis,BA204,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Giallo Florita,,,Call,,,,,,,0,
+LG HiMacs,Grigio,MV611,Shale,4525,159,95,32,32,20,4.5,1,Primary
+LG HiMacs,Harvest Grain,,,Call,,,,,,,0,
+LG HiMacs,Hazel Black,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+LG HiMacs,Hermes Beige,,,Call,,,,,,,0,
+LG HiMacs,Homebrewed,CT410,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+LG HiMacs,Indian Pearl,MV607,Natural,4214,147,89,255,255,255,3,0,Alternate
+LG HiMacs,Juniper Green,,,Call,,,,,,,0,
+LG HiMacs,Kahlua Brown,RS319,,Call,,,,,,,0,
+LG HiMacs,Lappland,,,Call,,,,,,,0,
+LG HiMacs,Limelight,CW101,,Call,,,,,,,0,
+LG HiMacs,Liscia,RU603,Dune,4310,128,100,199,173,139,3.5,0,Primary
+LG HiMacs,Magellan,RM502,Lava,4521,139,100,87,86,77,4.5,1,Primary
+LG HiMacs,Maple Canyon,RS321,Sonora,4317,163,100,172,157,135,0,0,Primary
+LG HiMacs,Maroon,RS323,Auburn,4330,111,100,71,58,57,5,1,Primary
+LG HiMacs,Mediterranean Olive,RS303,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+LG HiMacs,Mercury Drift,,,Call,,,,,,,0,
+LG HiMacs,Mesquite Brown,RS307,Latte,4312,138,100,165,144,113,4,0,Primary
+LG HiMacs,Meteorite,MV619,Roast,4332,155,92,53,48,43,4.5,1,Primary
+LG HiMacs,Mystic Blue,CT407,Cobalt,4607,0,0,0,0,0,0,1,Primary
+LG HiMacs,Obsidian Black,CT401,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Odyssey,RM501,Chocolate,4324,120,100,52,33,0,3,1,Primary
+LG HiMacs,Orion,GL609,Olive,4520,149,91,74,63,37,0,1,Primary
+LG HiMacs,Park Avenue,,,Call,,,,,,,0,
+LG HiMacs,Passion Rouge,CT405,,Call,,,,,,,0,
+LG HiMacs,Pewter,RC101,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+LG HiMacs,Piave,RU605,Hazel,4432,135,92,100,61,37,0,1,Alternate
+LG HiMacs,Prateria,,,Call,,,,,,,0,
+LG HiMacs,River Walk,BT323,Midnight,4532,143,100,0,0,0,4,1,Alternate
+LG HiMacs,Rolling Stone,MV618,Misty,4220,145,84,231,234,224,2.5,0,Primary
+LG HiMacs,Rosewood,,,Call,,,,,,,0,
+LG HiMacs,Royal Blanc,BA205,Winter,4101,171,90,253,253,252,3,0,Primary
+LG HiMacs,Royal Gold,,,Call,,,,,,,0,
+LG HiMacs,Sabbia,MV608,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+LG HiMacs,Sahara,RM505,Dune,4310,128,100,199,173,139,3.5,0,Primary
+LG HiMacs,Sand Dune,RC102,Beach,4230,112,100,208,186,148,3,0,Primary
+LG HiMacs,Sandcastle,CL106,Beige,4228,113,100,211,189,151,3,0,Primary
+LG HiMacs,Savannah,,,Call,,,,,,,0,
+LG HiMacs,Seaside,RS461,Beach,4230,112,100,208,186,148,3,0,Primary
+LG HiMacs,Serengeti,BT327,Dune,4310,128,100,199,173,139,3.5,0,Primary
+LG HiMacs,Slice of Ice,CW102,Misty,4220,145,84,231,234,224,2.5,0,Primary
+LG HiMacs,Sophia,,,Call,,,,,,,0,
+LG HiMacs,Specchio White,CT402,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG HiMacs,Sterling Gray,LS451,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+LG HiMacs,Swan Cotton,RS301,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG HiMacs,Takoda,BT354,,Call,,,,,,,0,
+LG HiMacs,Teslin,RU602,Manilla,4231,140,100,232,215,175,0,0,Primary
+LG HiMacs,Tiffany Grey,CL105,Mesa,4604,142,93,39,33,29,4,1,Primary
+LG HiMacs,Tuxedo Black,,,Call,,,,,,,0,
+LG HiMacs,Vanilla Java,RS313,Beige,4228,113,100,211,189,151,3,0,Primary
+LG HiMacs,Venetian Avorio,RS314,Dune,4310,128,100,199,173,139,3.5,0,Primary
+LG HiMacs,Victorian Sands,RS308,Misty,4220,145,84,231,234,224,2.5,0,Primary
+LG HiMacs,Volcanic Topaz,RS310,,Call,,,,,,,0,
+LG HiMacs,Walnut Luster,MV616,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+LG HiMacs,Windy Marino,,,Call,,,,,,,0,
+LG HiMacs,Winter Flower,,,Call,,,,,,,0,
+LG HiMacs,Winter Riviera,MV606,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Aquamarine,,,Call,,,,,,,0,
+LG HiMacs,Aventurine,,,Call,,,,,,,0,
+LG HiMacs,Bisque,,,Call,,,,,,,0,
+LG HiMacs,Carbon,,,Call,,,,,,,0,
+LG HiMacs,Carnelian,,,Call,,,,,,,0,
+LG HiMacs,Celestine,,,Call,,,,,,,0,
+LG HiMacs,Creme,,,Call,,,,,,,0,
+LG HiMacs,Crystal,,,Call,,,,,,,0,
+LG HiMacs,Dune,,,Call,,,,,,,0,
+LG HiMacs,Emerald,,,Call,,,,,,,0,
+LG HiMacs,Espresso,,,Call,,,,,,,0,
+LG HiMacs,Fawn,,,Call,,,,,,,0,
+LG HiMacs,Goldstone,,,Call,,,,,,,0,
+LG HiMacs,Jelly Opal,,,Call,,,,,,,0,
+LG HiMacs,Jubilee,,,Call,,,,,,,0,
+LG HiMacs,Kiwi Flake,,,Call,,,,,,,0,
+LG HiMacs,Lt Speck Blue,,,Call,,,,,,,0,
+LG HiMacs,Lt Speck Grey,,,Call,,,,,,,0,
+LG HiMacs,Lt Tan Flake,,,Call,,,,,,,0,
+LG HiMacs,Midnight Sky,,,Call,,,,,,,0,
+LG HiMacs,Mocha,,,Call,,,,,,,0,
+LG HiMacs,Moonstone,,,Call,,,,,,,0,
+LG HiMacs,Night View,,,Call,,,,,,,0,
+LG HiMacs,Night Image,,,Call,,,,,,,0,
+LG HiMacs,Opal,,,Call,,,,,,,0,
+LG HiMacs,Pearl White,,,Call,,,,,,,0,
+LG HiMacs,Peridot,,,Call,,,,,,,0,
+LG HiMacs,Polar White,,,Call,,,,,,,0,
+LG HiMacs,Renaissance Rose,,,Call,,,,,,,0,
+LG HiMacs,Seaweed,,,Call,,,,,,,0,
+LG HiMacs,Sedona,,,Call,,,,,,,0,
+LG HiMacs,Silhouette Flake,,,Call,,,,,,,0,
+LG HiMacs,Smoke Grey,,,Call,,,,,,,0,
+LG HiMacs,Smoky Quartz,,,Call,,,,,,,0,
+LG HiMacs,Snow Storm,,,Call,,,,,,,0,
+LG HiMacs,Snow Flake,,,Call,,,,,,,0,
+LG HiMacs,Speckled Grey,,,Call,,,,,,,0,
+LG HiMacs,Speckled Pepper,,,Call,,,,,,,0,
+LG HiMacs,Speckled Seafoam,,,Call,,,,,,,0,
+LG HiMacs,Spindrift,,,Call,,,,,,,0,
+LG HiMacs,Spruce Flake,,,Call,,,,,,,0,
+LG HiMacs,Starburst,,,Call,,,,,,,0,
+LG HiMacs,Suave,,,Call,,,,,,,0,
+LG HiMacs,Summer Night,,,Call,,,,,,,0,
+LG HiMacs,Sunstone,,,Call,,,,,,,0,
+LG HiMacs,Tern Egg Grey,,,Call,,,,,,,0,
+LG HiMacs,Topaz,,,Call,,,,,,,0,
+LG HiMacs,Tundra,,,Call,,,,,,,0,
+LG HiMacs,Aspen Granite,780,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG HiMacs,Black,7,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Black,7,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Blanca Granite,701,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG HiMacs,Blue Bayou,510,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+LG HiMacs,Bone,3,Vanilla,4105,169,95,234,237,227,0,0,Alternate
+LG HiMacs,Bright White,1,Bright,4102,0,0,0,0,0,0,1,Alternate
+LG HiMacs,Cinder Granite,679,Willow,4314,170,100,183,171,143,0,0,Primary
+LG HiMacs,Ebony Granite,710,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Ebony Granite,710,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Fashion White,4,Chalk,4100,119,100,253,253,252,4,0,Primary
+LG HiMacs,Fire,6,Fire,4621,0,0,0,0,0,0,1,Primary
+LG HiMacs,Galaxy Mist,311,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Galaxy Mist,311,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Goldrush Gemstone,819S,Roast,4332,155,92,53,48,43,4.5,1,Primary
+LG HiMacs,Green Glass,920,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+LG HiMacs,Grey,56,Silver,4622,0,0,0,0,0,0,1,Primary
+LG HiMacs,Lumino,50,Misty,4220,145,84,231,234,224,2.5,0,Primary
+LG HiMacs,Macadam,12,Charcoal,4625,0,0,0,0,0,0,1,Primary
+LG HiMacs,Mandarin,11,Mandarin,4619,0,0,0,0,0,0,1,Primary
+LG HiMacs,Navajo Mist,371,Dune,4310,128,100,199,173,139,3.5,0,Primary
+LG HiMacs,Papyrus Mist,349,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+LG HiMacs,Polar Mist,290,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG HiMacs,Raven Boulder,810,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Rio Grande Stone,503,Mocha,4322,146,95,95,68,53,4,1,Primary
+LG HiMacs,San Rafael Stone,501,Khaki,4236,137,98,164,145,104,4,0,Primary
+LG HiMacs,Silver Mist,219,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+LG HiMacs,South Beach Boulder,811,Natural,4214,147,89,255,255,255,3,0,Primary
+LG HiMacs,Staten Island Stone,502,Willow,4314,170,100,183,171,143,0,0,Primary
+LG HiMacs,Volterra,505,Sonora,4317,163,100,172,157,135,0,0,Primary
+LG HiMacs,Wheat Mist,266,Sand,4216,157,95,255,244,233,2.5,0,Primary
+LG HiMacs,White Petals,900,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+LG HiMacs,Winter Boulder,800,Stone,4222,164,85,214,204,186,3,0,Primary
+LG HiMacs,Arctic White,,Chalk,4100,119,100,253,253,252,4,0,Primary
+LG HiMacs,Atlantis Mirage,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+LG HiMacs,Bianco Quartz,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+LG HiMacs,Brilliant Red,,Hot,4617,0,0,0,0,0,0,1,Primary
+LG HiMacs,Canopy,,Stone,4222,164,85,214,204,186,3,0,Primary
+LG HiMacs,Cardamon,,Fawn,4316,131,100,148,125,96,3,0,Primary
+LG HiMacs,Carthage,,Rust,4424,156,91,118,62,31,4,1,Primary
+LG HiMacs,Coconut Milk,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+LG HiMacs,Concrete Quartz,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+LG HiMacs,Constellation,,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Crystal Angelica,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+LG HiMacs,Crystal Malt,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+LG HiMacs,Crystal Vanilla,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+LG HiMacs,DaVinci,,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Donatello,,Natural,4214,147,89,255,255,255,3,0,Alternate
+LG HiMacs,Frost Perle,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG HiMacs,Genesis,,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,Giotto,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+LG HiMacs,Glacier,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+LG HiMacs,Grigio Quartz,,Stone,4222,164,85,214,204,186,3,0,Primary
+LG HiMacs,Ice,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG HiMacs,Ivory,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+LG HiMacs,Jet Black,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+LG HiMacs,Kosciousko,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG HiMacs,Malted Milk,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+LG HiMacs,Marzipan,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+LG HiMacs,Merangue,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+LG HiMacs,Micheal Angelo,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+LG HiMacs,Natural Quartz,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+LG HiMacs,Nero quartz,,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG HiMacs,New Bianco Quartz,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+LG HiMacs,New Kosciousko,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG HiMacs,New Zucchero,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+LG HiMacs,Nutmeg,,Sonora,4317,163,100,172,157,135,0,0,Primary
+LG HiMacs,Pompei,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+LG HiMacs,Putty,,Stone,4222,164,85,214,204,186,3,0,Primary
+LG Viatera,Raphael,,Mocha,4322,146,95,95,68,53,4,1,Primary
+LG Viatera,Risotto,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+LG Viatera,Sea Salt,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+LG Viatera,Sky Grey,,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+LG Viatera,Smooth Concrete,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+LG Viatera,Snow Storm,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+LG Viatera,Spring Burst,,Gold,4609,0,0,0,0,0,0,1,Primary
+LG Viatera,Sultry Attraction,,Pudding,4606,154,88,45,39,18,3,1,Primary
+LG Viatera,Sultry Mood,,Pudding,4606,154,88,45,39,18,3,1,Primary
+LG Viatera,Sultry Shadow,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+LG Viatera,Tahini,,Sand,4216,157,95,255,244,233,2.5,0,Primary
+LG Viatera,Talc,,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+LG Viatera,Tapenade,,Fawn,4316,131,100,148,125,96,3,0,Primary
+LG Viatera,Tofu,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+LG Viatera,Wet Sand,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+LG Viatera,Whistful,,Stone,4222,164,85,214,204,186,3,0,Primary
+LG Viatera,White Chiffon,,Natural,4214,147,89,255,255,255,3,0,Primary
+LG Viatera,Winter White,,Chalk,4100,119,100,253,253,252,4,0,Primary
+LG Viatera,Zucchero,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+LG Viatera,Allspice Quartz,G63,Pudding,4606,154,88,45,39,18,3,1,Primary
+LG Viatera,Almond,S02,Butter,4226,115,85,230,208,170,2.5,0,Primary
+LG Viatera,Almond Pearl,G08,Beige,4228,113,100,211,189,151,3,0,Primary
+LG Viatera,Almond Pearl,G08,Natural,4214,147,89,255,255,255,3,0,Alternate
+LG Viatera,Alpine White,S28,Winter,4101,171,90,253,253,252,3,0,Primary
+LG Viatera,Amberglow,VE11,Beach,4230,112,100,208,186,148,3,0,Primary
+LG Viatera,Annato Granite,G606,Beige,4228,113,100,211,189,151,3,0,Primary
+LG Viatera,Annato Granite,G606,Latte,4312,138,100,165,144,113,4,0,Primary
+LG Viatera,Apple Green Sand,G26,Prairie,4516,153,90,137,139,123,3.5,0,Alternate
+LG Viatera,Apricot,,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+LG Viatera,Aqua Granite,G24,Ice,4218,136,8,231,234,224,1.5,0,Primary
+LG Viatera,Arabian,,AIA Boulder,4810,0,0,0,0,0,0,1,Primary
+LG Viatera,Arabian,,,Call,,,,,,,0,
+LG Viatera,Arctic White,S06,Winter,4101,171,90,253,253,252,3,0,Primary
+LG Viatera,Arctic White,S06,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+LG Viatera,Arctic Granite,G34,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG Viatera,Armadillo,GT909,Mesa,4604,142,93,39,33,29,4,1,Primary
+LG Viatera,Armadillo,GT909,Pudding,4606,154,88,45,39,18,3,1,Primary
+LG Viatera,Aztec Quartz,G33,Natural,4214,147,89,255,255,255,3,0,Primary
+LG Viatera,Aztec Quartz,G33,Dune,4310,128,100,199,173,139,3.5,0,Primary
+LG Viatera,Azure Quartz,G39,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+LG Viatera,Azure Quartz,G39,Natural,4214,147,89,255,255,255,3,0,Alternate
+LG Viatera,Babylon Beige,,Beige,4228,113,100,211,189,151,3,0,Primary
+LG Viatera,Bamboo Leaf,G122,Chocolate,4324,120,100,52,33,0,3,1,Primary
+LG Viatera,Bamboo Leaf,G122,Pudding,4606,154,88,45,39,18,3,1,Primary
+LG Viatera,Banana,S026,Banana,4650,#N/A,0,0,0,0,0,1,Primary
+LG Viatera,Banana,S026,,Call,,,,,,,0,
+LG Viatera,Barley,GT937,Beach,4230,112,100,208,186,148,3,0,Primary
+LG Viatera,Barley,GT937,Beach,4230,112,100,208,186,148,3,0,Primary
+LG Viatera,Basil,VG22,Olive,4520,149,91,74,63,37,0,1,Primary
+LG Viatera,Basil,VG22,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+LG Viatera,Basilica,M321,Natural,4214,147,89,255,255,255,3,0,Primary
+LG Viatera,Beach Sand,G48,Beige,4228,113,100,211,189,151,3,0,Primary
+LG Viatera,Beige Sand,G22,Slate,4512,160,99,154,140,125,2.5,0,Primary
+LG Viatera,Bellany,GT933,Beige,4228,113,100,211,189,151,3,0,Primary
+LG Viatera,Bellany,GT933,Cream,4232,127,100,211,201,177,4,0,Primary
+LG Viatera,Bergamo,M204,Misty,4220,145,84,231,234,224,2.5,0,Primary
+LG Viatera,Bergamo,M204,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+LG Viatera,Birch Bark,G714R,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG Viatera,Birch Bark,G714R,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG Viatera,Birchwood,G124,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG Viatera,Birchwood,G124,Fog,4200,133,88,250,250,248,2.5,0,Primary
+LG Viatera,Black,S22,Midnight,4532,143,100,0,0,0,4,1,Alternate
+LG Viatera,Black Granite,G31,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG Viatera,Black Hole,,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG Viatera,Black Pearl,G010,Midnight,4532,143,100,0,0,0,4,1,Alternate
+LG Viatera,Black Sand,G09,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG Viatera,Breeze,M306,Winter,4101,171,90,253,253,252,3,0,Primary
+LG Viatera,Cameroon,VN21,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+LG Viatera,Cameroon,VN21,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+LG Viatera,Canossa,M202,Misty,4220,145,84,231,234,224,2.5,0,Primary
+LG Viatera,Canossa,M202,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+LG Viatera,Cappucino,G117,Cream,4232,127,100,211,201,177,4,0,Primary
+LG Viatera,Cappucino,G117,Khaki,4236,137,98,164,145,104,4,0,Alternate
+LG Viatera,Casera,VE24,Beige,4228,113,100,211,189,151,3,0,Primary
+LG Viatera,Casera,VE24,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+LG Viatera,Castle,VW23,Sonora,4317,163,100,172,157,135,0,0,Primary
+LG Viatera,Celebration Granite,G40,Midnight,4532,143,100,0,0,0,4,1,Primary
+LG Viatera,Cocoa,G501R,Mocha,4322,146,95,95,68,53,4,1,Primary
+LG Viatera,Coffee Brown,S100,Chocolate,4324,120,100,52,33,0,3,1,Primary
+LG Viatera,Colosseum,M323,Ice,4218,136,8,231,234,224,1.5,0,Primary
+LG Viatera,Concrete Gray,S103,Raven,4645,0,0,0,0,0,0,1,Primary
+LG Viatera,Confetti Quartz,,,Call,,,,,,,0,
+LG Viatera,Cork,GT911,Latte,4312,138,100,165,144,113,4,0,Primary
+LG Viatera,Cosmos,T002,Beach,4230,112,100,208,186,148,3,0,Primary
+LG Viatera,Coswal,G125,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+LG Viatera,Coswal,G125,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+LG Viatera,Cotton Dust,G123,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+LG Viatera,Cream,S09,Natural,4214,147,89,255,255,255,3,0,Alternate
+LG Viatera,Cream,S09,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+LG Viatera,Crystal Granite,G102,Stone,4222,164,85,214,204,186,3,0,Primary
+Livingstone,Delta Sand,G70,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Livingstone,Desert Sand,G01,Natural,4214,147,89,255,255,255,3,0,Primary
+Livingstone,Desert Sand,G01,Fawn,4316,131,100,148,125,96,3,0,Primary
+Livingstone,Dominica,VN22,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Livingstone,Dorado,VB24,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Livingstone,Dorado,VB24,Pudding,4606,154,88,45,39,18,3,1,Primary
+Livingstone,Egg White,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Livingstone,Emerald,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Livingstone,Eucalyptus Granite,G601,Olive,4520,149,91,74,63,37,0,1,Primary
+Livingstone,Festival Pink,S208,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Livingstone,Fiery Red,S25,Fire,4621,0,0,0,0,0,0,1,Primary
+Livingstone,Firenze,M103,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Livingstone,Firenze,M103,Stone,4222,164,85,214,204,186,3,0,Primary
+Livingstone,Florida Orange,S205,Orange,4633,0,0,0,0,0,0,1,Primary
+Livingstone,Foliage Quartz,G64,Prairie,4516,153,90,137,139,123,3.5,0,Alternate
+Livingstone,Fresh,VW21,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Livingstone,Galaxy,,,Call,,,,,,,0,
+Livingstone,Garnet Granite,,,Call,,,,,,,0,
+Livingstone,Gemini,,,Call,,,,,,,0,
+Livingstone,Genova,M209,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Livingstone,Genova,M209,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Livingstone,Gobi,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Livingstone,Graphite Granite,G103,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Livingstone,Gray,S005,Natural,4214,147,89,255,255,255,3,0,Alternate
+Livingstone,Gray Granite,G17,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Livingstone,Gray Granite,G17,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Livingstone,Gray Sand,C02,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Livingstone,Greystone Granite,,,Call,,,,,,,0,
+Livingstone,Harvest,GT908,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Livingstone,Harvest,GT908,Fawn,4316,131,100,148,125,96,3,0,Primary
+Livingstone,Hawksbill,,Beige,4228,113,100,211,189,151,3,0,Primary
+Livingstone,Haze,M308,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Livingstone,Hazelnut,ST903,Beige,4228,113,100,211,189,151,3,0,Primary
+Livingstone,Hazelnut,ST903,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Livingstone,Hazelnut Shell,GT934,Beach,4230,112,100,208,186,148,3,0,Primary
+Livingstone,Hickory,,Beige,4228,113,100,211,189,151,3,0,Primary
+Livingstone,Honeysuckle,G504R,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Livingstone,Honeysuckle,G504R,Fawn,4316,131,100,148,125,96,3,0,Primary
+Livingstone,Horse Chestnut,G712R,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Livingstone,Horse Chestnut,G712R,Pudding,4606,154,88,45,39,18,3,1,Primary
+Livingstone,Indigo Granite,,,Call,,,,,,,0,
+Livingstone,Ivory Quartz,G30,Beach,4230,112,100,208,186,148,3,0,Primary
+Livingstone,Ivory White,S29,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Meganite,Ivy,G502R,Olive,4520,149,91,74,63,37,0,1,Primary
+Meganite,Jasmin Green,,,Call,,,,,,,0,
+Meganite,Jasmine,G505R,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Meganite,Juniper,G606R,Mesa,4604,142,93,39,33,29,4,1,Primary
+Meganite,Jupiter,,,Call,,,,,,,0,
+Meganite,Kaffa,VE13,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Meganite,Kalahari,,Sonora,4317,163,100,172,157,135,0,0,Primary
+Meganite,Karoo,,AIA Boulder,4810,0,0,0,0,0,0,1,Primary
+Meganite,Kohala,VN24,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Meganite,Kohala,VN24,Roast,4332,155,92,53,48,43,4.5,1,Alternate
+Meganite,Lattetude,VE21,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Lattetude,VE21,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Meganite,Lemongrass,G503R,Beige,4228,113,100,211,189,151,3,0,Primary
+Meganite,Lilac Haze,S216,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Lucca,M203,Natural,4214,147,89,255,255,255,3,0,Primary
+Meganite,Lucent Emerald,S301,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Meganite,Lucent Opal,S302,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Meganite,Lucent Ruby,S303,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Meganite,Lucent Sapphire,S304,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Meganite,Lunar Sand,,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Meganite,Macchiato,G111,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Meganite,Maple Meadow,G121,Beach,4230,112,100,208,186,148,3,0,Primary
+Meganite,Maple Meadow,G121,Khaki,4236,137,98,164,145,104,4,0,Primary
+Meganite,Marin,VE23,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Meganite,Marin,VE23,Raven,4645,0,0,0,0,0,0,1,Primary
+Meganite,Marta Gray,S207,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Marta Gray,S207,,Call,,,,,,,0,
+Meganite,Maui Quartz,G233R,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Meganite,Maui Quartz,G233R,Natural,4214,147,89,255,255,255,3,0,Alternate
+Meganite,Mauve Sand,,,Call,,,,,,,0,
+Meganite,Merapi,VB01,Midnight,4532,143,100,0,0,0,4,1,Primary
+Meganite,Mercury,,Beige,4228,113,100,211,189,151,3,0,Primary
+Meganite,Merea,VL22,Natural,4214,147,89,255,255,255,3,0,Primary
+Meganite,Merea,VL22,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Meganite,Merino,,Natural,4214,147,89,255,255,255,3,0,Primary
+Meganite,Mesa Granite,G73,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Mesa Granite,G73,Mesa,4604,142,93,39,33,29,4,1,Primary
+Meganite,Meteor,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Meganite,Metis,,,Call,,,,,,,0,
+Meganite,Midnight Pearl,G015,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Meganite,Midnight Pearl,G015,Ocean,4614,0,0,0,0,0,0,1,Primary
+Meganite,Milky Way,T009,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Meganite,Milky Way,T009,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Meganite,Mist,M307,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Meganite,Mocha Granite,G74,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Meganite,Mocha Granite,G74,Pudding,4606,154,88,45,39,18,3,1,Primary
+Meganite,Modena,,,Call,,,,,,,0,
+Meganite,Monza,M206,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Meganite,Moon Haze,G118,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Meganite,Moon Haze,G118,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Meganite,Moonmist,VE12,Stone,4222,164,85,214,204,186,3,0,Primary
+Meganite,Moonscape Quartz,G58,Beach,4230,112,100,208,186,148,3,0,Primary
+Meganite,Moonscape Quartz,G58,Natural,4214,147,89,255,255,255,3,0,Alternate
+Meganite,Mountain Ash,,Beige,4228,113,100,211,189,151,3,0,Primary
+Meganite,Natural Granite,G23,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Meganite,Natural Quartz,,,Call,,,,,,,0,
+Meganite,Nubian,,AIA Boulder,4810,0,0,0,0,0,0,1,Primary
+Meganite,Oatmeal,GT938,Stone,4222,164,85,214,204,186,3,0,Primary
+Meganite,Oatmeal,GT938,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Meganite,Ocean Pearl,,,Call,,,,,,,0,
+Meganite,Opal,,Natural,4214,147,89,255,255,255,3,0,Primary
+Meganite,Oregano Sand,G62,Pudding,4606,154,88,45,39,18,3,1,Primary
+Meganite,Oregano Sand,G62,Olive,4520,149,91,74,63,37,0,1,Primary
+Meganite,Palm,G507R,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Meganite,Pantheon,M322,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Parma,M205,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Meganite,Parma,M205,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Meganite,Pebble Pearl,,Natural,4214,147,89,255,255,255,3,0,Alternate
+Meganite,Pecan,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Meganite,Phobos,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Meganite,Pisa,M207,Mesa,4604,142,93,39,33,29,4,1,Primary
+Meganite,Platinum Granite,G07,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Platinum Granite,G07,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Meganite,Plum Pearl,,,Call,,,,,,,0,
+Meganite,Pluto,T005,Beach,4230,112,100,208,186,148,3,0,Primary
+Meganite,Pluto,T005,Latte,4312,138,100,165,144,113,4,0,Primary
+Meganite,Poplar,G711R,Beach,4230,112,100,208,186,148,3,0,Primary
+Meganite,Poppy Seed,GT939,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Meganite,Poppy Seed,GT939,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Meganite,Powder,VW11,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Meganite,Ripe Cotton,G518R,Natural,4214,147,89,255,255,255,3,0,Primary
+Meganite,Rose Granite,G18,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Rose Quartz,G06,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Ruby,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Saddle Granite,G603,Mocha,4322,146,95,95,68,53,4,1,Primary
+Meganite,Santa Ana,,,Call,,,,,,,0,
+Meganite,Santorini,VL21,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Meganite,Sapphire,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Meganite,Satin White,,,Call,,,,,,,0,
+Meganite,Saturn,T003,Beach,4230,112,100,208,186,148,3,0,Primary
+Meganite,Sea Oat Quartz,G38,Natural,4214,147,89,255,255,255,3,0,Primary
+Mystera,Seafoam Quartz,G44,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Mystera,Shasta,VE26,Beige,4228,113,100,211,189,151,3,0,Primary
+Mystera,Sienna Quartz,G72,Rust,4424,156,91,118,62,31,4,1,Primary
+Mystera,Sonoran Granite,G75,Natural,4214,147,89,255,255,255,3,0,Primary
+Mystera,Sonoran Granite,G75,Beige,4228,113,100,211,189,151,3,0,Primary
+Mystera,Spiced Java Sand,G59,Mocha,4322,146,95,95,68,53,4,1,Primary
+Mystera,Stardust Granite,,,Call,,,,,,,0,
+Mystera,Steel Gray,S209,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Mystera,Steel Sand,G32,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Mystera,Steel Sand,G32,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Mystera,Steller,VR21,Rust,4424,156,91,118,62,31,4,1,Primary
+Mystera,Stonewall,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Mystera,Storm Granite,G602,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Mystera,Storm Granite,G602,Prairie,4516,153,90,137,139,123,3.5,0,Alternate
+Mystera,Sugar Maple,G710R,Latte,4312,138,100,165,144,113,4,0,Primary
+Mystera,Sugarloaf,,,Call,,,,,,,0,
+Mystera,Tambora,VE01,Natural,4214,147,89,255,255,255,3,0,Alternate
+Mystera,Tanami,,Cream,4232,127,100,211,201,177,4,0,Primary
+Mystera,Tapioca Pearl,G50,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Pelican Quartz,Tapioca Pearl,G50,Natural,4214,147,89,255,255,255,3,0,Primary
+Pelican Quartz,Terni,M201,Cream,4232,127,100,211,201,177,4,0,Primary
+Pelican Quartz,Terra Quartz,G29,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Pelican Quartz,Timberwolf Granite,G604,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Pelican Quartz,Toffee Brown,S104,Olive,4520,149,91,74,63,37,0,1,Primary
+Pelican Quartz,Toffee Brown,S104,Mesa,4604,142,93,39,33,29,4,1,Primary
+Pelican Quartz,Trail Gray,GT912,Fawn,4316,131,100,148,125,96,3,0,Primary
+Pelican Quartz,Tundra Quartz,G65,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Pelican Quartz,Turquoise Sand,,,Call,,,,,,,0,
+Pelican Quartz,Umber Granite,G605,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Pelican Quartz,Vanilla Sugar,GT913,Natural,4214,147,89,255,255,255,3,0,Primary
+Pelican Quartz,Vanilla Sugar,GT913,Beige,4228,113,100,211,189,151,3,0,Primary
+Polystone,Venetian Sand,G42,Fawn,4316,131,100,148,125,96,3,0,Primary
+Polystone,Venus,T001,Cloud,4118,122,98,250,250,248,3.5,0,Primary
+Polystone,Venus,T001,Stone,4222,164,85,214,204,186,3,0,Primary
+Polystone,Venus Green,,Natural,4214,147,89,255,255,255,3,0,Primary
+Polystone,Verde Quartz,G48,Verde,4616,0,0,0,0,0,0,1,Primary
+Polystone,Vetro,VG11,Khaki,4236,137,98,164,145,104,4,0,Primary
+Polystone,Vetro,VG11,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+Polystone,Volcanic Ice,GT918,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Polystone,Volcanic Ice,GT918,Lava,4521,139,100,87,86,77,4.5,1,Alternate
+Polystone,Wallflower,G508R,Willow,4314,170,100,183,171,143,0,0,Primary
+Polystone,Walnut,,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Polystone,White Granite,G05,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Polystone,White Granite,G05,Natural,4214,147,89,255,255,255,3,0,Alternate
+Polystone,White Quartz,G04,Natural,4214,147,89,255,255,255,3,0,Primary
+Polystone,Zaffre,VY11,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Polystone,Absolute Night,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Polystone,Antique Limestone,,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Polystone,Artesia,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Polystone,Aspen,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Polystone,Bali,,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Polystone,Bedazzled,,Earth,4628,0,0,0,0,0,0,1,Alternate
+Polystone,Biscuit,,Earth,4628,0,0,0,0,0,0,1,Primary
+Polystone,Bistro,,Olive,4520,149,91,74,63,37,0,1,Primary
+Polystone,Blanco,,Winter,4101,171,90,253,253,252,3,0,Primary
+Polystone,Blanco White,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Polystone,Bourbon,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Polystone,Cabo,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Polystone,Cadet,,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Polystone,Cairo,,Earth,4628,0,0,0,0,0,0,1,Primary
+Polystone,Calico,,Beach,4230,112,100,208,186,148,3,0,Primary
+Polystone,Calico,,Earth,4628,0,0,0,0,0,0,1,Alternate
+Polystone,Camo,,Olive,4520,149,91,74,63,37,0,1,Primary
+Polystone,Carbon,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Polystone,Cargo,,Sonora,4317,163,100,172,157,135,0,0,Primary
+Polystone,Charcoal Mist,,Shale,4525,159,95,32,32,20,4.5,1,Alternate
+Polystone,Columbia,,Auburn,4330,111,100,71,58,57,5,1,Primary
+Polystone,Constellation,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Polystone,Copper Patina,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Polystone,Crater,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Polystone,Creme Beige,,Cream,4232,127,100,211,201,177,4,0,Primary
+Polystone,Crystal White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Polystone,Daylight Reflection,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Polystone,Denali,,Winter,4101,171,90,253,253,252,3,0,Alternate
+Polystone,Desert Storm,,Sonora,4317,163,100,172,157,135,0,0,Primary
+Polystone,Dover,,Stone,4222,164,85,214,204,186,3,0,Primary
+Polystone,Dune,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Polystone,Fire Cracker,,Hot,4617,0,0,0,0,0,0,1,Primary
+Polystone,Galaxy Ice,,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Polystone,Geneva,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Polystone,High Tide,,Flax,4627,0,0,0,0,0,0,1,Primary
+Q Quartz,Himilaya,,Willow,4314,170,100,183,171,143,0,0,Primary
+Q Quartz,Juniper Trial,,Cream,4232,127,100,211,201,177,4,0,Primary
+Q Quartz,Kashmir,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Q Quartz,Kenai,,Lava,4521,139,100,87,86,77,4.5,1,Alternate
+Q Quartz,Kilquea,,Mocha,4322,146,95,95,68,53,4,1,Alternate
+Q Quartz,Kona Ice,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Q Quartz,Lava Ice,,Fire,4621,0,0,0,0,0,0,1,Primary
+Q Quartz,Limoncello,,Sun,4615,0,0,0,0,0,0,1,Primary
+Q Quartz,Lunar Ice,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Q Quartz,Mesquite Moon,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Q Quartz,Midnight Reflection,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Q Quartz,Monet,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Q Quartz,Morocco,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Q Quartz,Natural Limestone,,Cream,4232,127,100,211,201,177,4,0,Primary
+Q Quartz,Nova,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Q Quartz,Oahu,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Q Quartz,Olive Rust,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Q Quartz,Oro Noir,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Q Quartz,Palermo,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Q Quartz,Palladium,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Q Quartz,Palladium,,Glacier,4111,134,90,253,253,252,3,0,Alternate
+Q Quartz,Royal Teak,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Q Quartz,Safari,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Radianz,San Tropez,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Radianz,Sand Ice,,Earth,4628,0,0,0,0,0,0,1,Primary
+Radianz,Sangria,,Ruby,4629,0,0,0,0,0,0,1,Primary
+Radianz,Santa Barbara,,Earth,4628,0,0,0,0,0,0,1,Primary
+Radianz,Santa Monica,,Earth,4628,0,0,0,0,0,0,1,Primary
+Radianz,Santiago,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Radianz,Sao Paulo,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Radianz,Sapporo,,,Call,,,,,,,0,
+Radianz,Sedona,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Radianz,Sherwood,,Clear,4000,121,50,253,253,252,1,0,Primary
+Radianz,Sienna Sand,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Radianz,Silver Lake,,Latte,4312,138,100,165,144,113,4,0,Primary
+Radianz,Smoke,,Pewter,4518,152,90,146,136,119,3.5,0,Alternate
+Radianz,Snow Storm,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Radianz,Sol,,Sun,4615,0,0,0,0,0,0,1,Primary
+Radianz,Solano,,Latte,4312,138,100,165,144,113,4,0,Primary
+Radianz,Solano,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Radianz,Solar Canyon,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Radianz,Starfire,,Hot,4617,0,0,0,0,0,0,1,Primary
+Radianz,Sugar Sand,,Earth,4628,0,0,0,0,0,0,1,Primary
+Radianz,Sugar Storm,,Flax,4627,0,0,0,0,0,0,1,Primary
+Radianz,Tahiti,,Khaki,4236,137,98,164,145,104,4,0,Primary
+Radianz,Tenerife,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Radianz,Thunder Storm,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Radianz,Trentino,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Radianz,Tropic Brown,,,Call,,,,,,,0,
+Radianz,Truffle,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Radianz,Tundra Ice,,Stone,4222,164,85,214,204,186,3,0,Primary
+Radianz,Twilight Reflection,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Radianz,Ultra White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Radianz,Vienna,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Radianz,Vintage Limestone,,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Radianz,Volcanic Rock,,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Radianz,Wheat,,Buff,4210,114,86,246,241,208,2.5,0,Primary
+Radianz,Wildwood,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Radianz,Wildwood,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Radianz,Ambrosia,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Radianz,Arroyo,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Radianz,Arroyo,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Radianz,Bechamel,,Natural,4214,147,89,255,255,255,3,0,Alternate
+Radianz,Bianca,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Radianz,Bianca,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Radianz,Blue Lagoon,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Radianz,Chestnut,,Natural,4214,147,89,255,255,255,3,0,Primary
+Radianz,Chestnut,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Radianz,Chocolate Chip,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Radianz,Clay,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Radianz,Clay,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Radianz,Coral Quartz,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Radianz,Dakota,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Silestone,Desert,,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Dune,,Beige,4228,113,100,211,189,151,3,0,Primary
+Silestone,Dune,,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Earth,,Rust,4424,156,91,118,62,31,4,1,Primary
+Silestone,Everglades,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Silestone,Flax,,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Heartland,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Heartland,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Silestone,Honey Wheat,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Icy White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Silestone,Jakarta,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Jakarta,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Silestone,Key West,,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Key West,,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Silestone,Klondike,,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Silestone,Kona,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Silestone,Lakeshore,,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Lakeshore,,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Silestone,Meredian,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Mesa,,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Mesa,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Silestone,Montana,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Silestone,Montana,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Silestone,North Ridge,,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Oatmeal Crunch,,Butter,4226,115,85,230,208,170,2.5,0,Primary
+Silestone,Opus,,Beach,4230,112,100,208,186,148,3,0,Primary
+Silestone,Oyster,,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Oyster,,Beige,4228,113,100,211,189,151,3,0,Primary
+Silestone,Pebble Beach,,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Quiet White,,Snow,4108,162,100,243,246,236,0,0,Primary
+Silestone,Quiet White,,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Sand Castle,,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Sand Castle,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Silestone,Santa Fe,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Silestone,Santa Fe,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Silestone,Sedona,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Sedona,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Silestone,Sink Brilliant White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Silestone,Sink Creamy,,Creamy,4707,0,0,0,0,0,0,1,Primary
+Silestone,Sink Soft White,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Silestone,Starry Night,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Silestone,Stonehenge,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Silestone,Tundra,,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Tuscany Nuova,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Silestone,Volcanic Ash,,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Alaska White,81,Winter,4101,171,90,253,253,252,3,0,Primary
+Silestone,Allspice Granite,685AR,Sonora,4317,163,100,172,157,135,0,0,Primary
+Silestone,Almond Mist,366,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Almond Mist,366,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Silestone,Amazon Mist,375,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Silestone,Amazon Mist,375,Olive,4520,149,91,74,63,37,0,1,Primary
+Silestone,Antique White Granite,630,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Silestone,Arctic Granite,603,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Silestone,Arctic Granite,603,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Aspen Granite,780,Winter,4101,171,90,253,253,252,3,0,Primary
+Silestone,Aztec Granite,681AR,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Silestone,Banana Cream Pie Mist,238,Manilla,4231,140,100,232,215,175,0,0,Primary
+Silestone,Beyond The Sea,416,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Silestone,Beyond The Sea,416,Marble,4106,141,88,246,246,244,3.5,0,Alternate
+Silestone,Blanca Granite,701,Fog,4200,133,88,250,250,248,2.5,0,Alternate
+Silestone,Blue Bayou Granite,510,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Blue Bayou Granite,510,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+Silestone,Blue Springs Boulder,857,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Silestone,Bone,3,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Silestone,Borgata Boulder,881,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Silestone,Bright White,1,Chalk,4100,119,100,253,253,252,4,0,Primary
+Silestone,Brown Eyed Girl Stone,503S,Hazel,4432,135,92,100,61,37,0,1,Primary
+Silestone,Camel Mist,369,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Canela Stone,504AR,Manilla,4231,140,100,232,215,175,0,0,Primary
+Silestone,Canvas Mist,312AR,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Castano Granite,667,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Silestone,Cinder Granite,679AR,Fawn,4316,131,100,148,125,96,3,0,Primary
+Silestone,Copperglow Breccia,922,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Dancing With The Stars,414,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Silestone,Delta Granite,661,Mocha,4322,146,95,95,68,53,4,1,Primary
+Silestone,Denali Granite,759,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Silestone,Desert Stone Granite,625AR,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Desert Stone Granite,625AR,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Silestone,Downtown Brown Breccia,951,Mocha,4322,146,95,95,68,53,4,1,Primary
+Silestone,Ebony Granite,710,Midnight,4532,143,100,0,0,0,4,1,Primary
+Silestone,Espresso Granite,677,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Silestone,Euphoria Boulder,809,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Silestone,Galaxy Mist,311,Midnight,4532,143,100,0,0,0,4,1,Primary
+Silestone,Glacier Mist,206,Winter,4101,171,90,253,253,252,3,0,Primary
+Silestone,Gold Coin Breccia,956,Fawn,4316,131,100,148,125,96,3,0,Primary
+Silestone,Golden Meadow Granite,734,Butter,4226,115,85,230,208,170,2.5,0,Primary
+Silestone,Goldrush Gemstone,819AR,Mocha,4322,146,95,95,68,53,4,1,Alternate
+Silestone,Grey Glacier Granite,637,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Grey Glacier Granite,637,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Silestone,Indigo Granite,736,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Silestone,Just Beachy Breccia,904,Beige,4228,113,100,211,189,151,3,0,Primary
+Silestone,Kaleidoscope Granite,652,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Silestone,Kaleidoscope Granite,652,Buff,4210,114,86,246,241,208,2.5,0,Primary
+Silestone,Lava Granite,657,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Silestone,Madeira Mist,319,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Silestone,Magic Moon Breccia,924,Fawn,4316,131,100,148,125,96,3,0,Primary
+Silestone,Mint Julip Granite,646,Khaki,4236,137,98,164,145,104,4,0,Primary
+Silestone,Mint Julip Granite,646,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Silestone,Mocha Granite,719,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Moonstone Granite,674,Stone,4222,164,85,214,204,186,3,0,Primary
+Silestone,Moonstone Granite,674,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Silestone,Morocco Mist,373AR,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Moscada Granite,751,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Navajo Mist,371,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Navarra Stone,507,Sonora,4317,163,100,172,157,135,0,0,Primary
+Silestone,Oatmeal Granite,626,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Ol' Blue Eyes Granite,724,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Silestone,Parchment Granite,671,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Pesto Mist,182,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Pesto Mist,182,Prairie,4516,153,90,137,139,123,3.5,0,Alternate
+Silestone,Platinum Granite,615,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Platinum Granite,615,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Silestone,Raven Boulder,810AR,Espresso,4528,130,100,58,58,58,4.5,1,Primary
+Silestone,Raven Boulder,810AR,Midnight,4532,143,100,0,0,0,4,1,Primary
+Silestone,Rice Pudding Breccia,905,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Silestone,Rio Grande Stone,503,Hazel,4432,135,92,100,61,37,0,1,Alternate
+Silestone,Rocky Road Granite,729AR,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Roman Granite,651,Misty,4220,145,84,231,234,224,2.5,0,Alternate
+Silestone,Rushmore Granite,683AR,Beige,4228,113,100,211,189,151,3,0,Primary
+Silestone,Rye Granite,627AR,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Rye Granite,627AR,Butter,4226,115,85,230,208,170,2.5,0,Primary
+Silestone,Saddlebrown Granite,668AR,Mocha,4322,146,95,95,68,53,4,1,Primary
+Silestone,Sage Granite,656,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Sage Granite,656,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Silestone,San Rafael Stone,501,Beach,4230,112,100,208,186,148,3,0,Primary
+Silestone,San Rafael Stone,501,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Silestone,Sanibel Granite,691,Natural,4214,147,89,255,255,255,3,0,Alternate
+Silestone,Sanibel Granite,691,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Silestone,Sea Glass,418,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Silestone,Sedona Granite,706,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Silestone,Shangrila Boulder,802,Natural,4214,147,89,255,255,255,3,0,Primary
+Silestone,Silver Lining Breccia,923,Natural,4214,147,89,255,255,255,3,0,Primary
+Staron,Silver Lining Breccia,923,Cream,4232,127,100,211,201,177,4,0,Primary
+Staron,Silver Mist,219AR,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Staron,Silver Mist,219AR,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Staron,Sky Dive Stone,518,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Staron,Smokey Mountain Stone,520,Natural,4214,147,89,255,255,255,3,0,Primary
+Staron,Smokey Mountain Stone,520,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Staron,Soft White,5,Winter,4101,171,90,253,253,252,3,0,Primary
+Staron,Soft White,5,Glacier,4111,134,90,253,253,252,3,0,Primary
+Staron,Sonora Granite,660AR,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Staron,Sonora Granite,660AR,Willow,4314,170,100,183,171,143,0,0,Primary
+Staron,South Beach Boulder,811,Natural,4214,147,89,255,255,255,3,0,Primary
+Staron,Speckled Hen Breccia,957,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Staron,Speckled Hen Breccia,957,Sonora,4317,163,100,172,157,135,0,0,Primary
+Staron,Staten Island Stone,502,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Staron,Surfin Safari,419,Beach,4230,112,100,208,186,148,3,0,Primary
+Staron,Surfin Safari,419,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Staron,Tiger Eye Gemstone,821AR,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Staron,Tiger Eye Gemstone,821AR,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Staron,Tomato Pie Mist,239,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Staron,Tomato Pie Mist,239,Rust,4424,156,91,118,62,31,4,1,Primary
+Staron,Translucient Blue Ice,913,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Staron,Translucient Green Ice,912,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Staron,Ultimate Boulder,805AR,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Staron,Ultimate Boulder,805AR,Beach,4230,112,100,208,186,148,3,0,Primary
+Staron,Verde Granite,746,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Staron,Verde Granite,746,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Staron,Wheat Mist,266AR,Natural,4214,147,89,255,255,255,3,0,Primary
+Staron,Wheat Mist,266AR,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Staron,White Crystal Boulder,813,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Staron,White Mosaic Granite,775,Winter,4101,171,90,253,253,252,3,0,Primary
+Staron,White Mosaic Granite,775,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Staron,Winter Boulder,800,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Staron,Winter Boulder,800,Stone,4222,164,85,214,204,186,3,0,Primary
+Staron,Yellowstone Granite,760,Natural,4214,147,89,255,255,255,3,0,Alternate
+Staron,Yorkshire Tan Granite,757,Beige,4228,113,100,211,189,151,3,0,Primary
+Staron,Avalanche,MSS-818,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+Staron,Buckskin,MSS-501,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Staron,Cachet,MSS-816,Cream,4232,127,100,211,201,177,4,0,Primary
+Staron,Cashmere,MSS-607,Cream,4232,127,100,211,201,177,4,0,Primary
+Staron,Chamois,MSS-604,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Staron,Chardonnay,MSS-821,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Staron,Cirrus,MSS-822,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Staron,Desert,MSS-530,Cream,4232,127,100,211,201,177,4,0,Primary
+Staron,Glacier,MSS-527,Winter,4101,171,90,253,253,252,3,0,Alternate
+Staron,Latte,MSS-600,Meridian,4649,0,0,0,0,0,0,1,Primary
+Staron,Rainforest,MSS-500,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Staron,Ravine,MSS-823,Meridian,4649,0,0,0,0,0,0,1,Primary
+Staron,Sante Fe,MSS-526,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Staron,Seashell,MSS-503,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Staron,Slate,MSS-601,Mesa,4604,142,93,39,33,29,4,1,Primary
+Staron,Tempest,MSS-824,Toscana,4648,167,93,36,26,20,4,1,Primary
+Staron,Thunder,MSS-502,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Staron,Tombolo,MSS-817,Cream,4232,127,100,211,201,177,4,0,Primary
+Staron,Tuscany,MSS-522,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Staron,Black Diamond,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Staron,Café Mocha,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Staron,Delicato Marfil,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Staron,Empress Dark,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Staron,Fossil,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Staron,Full Moon,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Staron,Icelandic,,Winter,4101,171,90,253,253,252,3,0,Primary
+Staron,Lava Black,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Staron,Linen White,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Staron,Pebble Creek,,Aluminum,4642,0,0,0,0,0,0,1,Primary
+Staron,Siesta Key White,,Winter,4101,171,90,253,253,252,3,0,Alternate
+Staron,Winter White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Staron,Arctic White,,,Call,,,,,,,0,
+Staron,Aurora,,,Call,,,,,,,0,
+Staron,Biscuit,,,Call,,,,,,,0,
+Staron,Blue Ridge,,,Call,,,,,,,0,
+Staron,Castle,,,Call,,,,,,,0,
+Staron,Coal,,,Call,,,,,,,0,
+Staron,Cobalt,,,Call,,,,,,,0,
+Staron,Copper,,,Call,,,,,,,0,
+Staron,Deep Green,,,Call,,,,,,,0,
+Staron,Dusk,,,Call,,,,,,,0,
+Staron,Edelwise,,,Call,,,,,,,0,
+Staron,Ever Green,,,Call,,,,,,,0,
+Staron,Everest,,,Call,,,,,,,0,
+Staron,Festival,,,Call,,,,,,,0,
+Staron,Frosty White,,,Call,,,,,,,0,
+Staron,Glacier White,,,Call,,,,,,,0,
+Staron,Greembrier,,,Call,,,,,,,0,
+Staron,Ivory Melange,,,Call,,,,,,,0,
+Staron,Khaki Melange,,,Call,,,,,,,0,
+Staron,King Sand,,,Call,,,,,,,0,
+Staron,Matterhorn,,,Call,,,,,,,0,
+Staron,Mediterranean,,,Call,,,,,,,0,
+Staron,Midnight,,,Call,,,,,,,0,
+Staron,Milk White,,,Call,,,,,,,0,
+Staron,Mont Blanc,,,Call,,,,,,,0,
+Staron,Monterey Tan,,,Call,,,,,,,0,
+Staron,New Aurora,,,Call,,,,,,,0,
+Staron,Oceanic,,,Call,,,,,,,0,
+Staron,Oyster,,,Call,,,,,,,0,
+Staron,Palisade,,,Call,,,,,,,0,
+Staron,Peach,,,Call,,,,,,,0,
+Staron,Pearl Grey,,,Call,,,,,,,0,
+Staron,Pebble,,,Call,,,,,,,0,
+Staron,Pepper Ivory,,,Call,,,,,,,0,
+Staron,Pepperdust,,,Call,,,,,,,0,
+Staron,Platinum,,,Call,,,,,,,0,
+Staron,Pyranees,,,Call,,,,,,,0,
+Technistone,River Rock,,,Call,,,,,,,0,
+Technistone,Rosetta,,,Call,,,,,,,0,
+Technistone,Sahara,,,Call,,,,,,,0,
+Technistone,Sand Storm,,,Call,,,,,,,0,
+Technistone,Sandbar,,,Call,,,,,,,0,
+Technistone,Sandstone,,,Call,,,,,,,0,
+Technistone,Savannah,,,Call,,,,,,,0,
+Technistone,Shale,,,Call,,,,,,,0,
+Technistone,Snow Lotus,,,Call,,,,,,,0,
+Technistone,Spice,,,Call,,,,,,,0,
+Technistone,Spring,,,Call,,,,,,,0,
+Technistone,Twilight Grey,,,Call,,,,,,,0,
+Technistone,Vert,,,Call,,,,,,,0,
+Technistone,Accacia Brown,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Technistone,Almond Roca,,Earth,4628,0,0,0,0,0,0,1,Primary
+Technistone,Alpine,,Pewter,4518,152,90,146,136,119,3.5,0,Alternate
+Technistone,Arctic White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Technistone,Athenian Gold,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Technistone,Cascade White,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Technistone,Chakra Beige,,Natural,4214,147,89,255,255,255,3,0,Primary
+Technistone,Concerto,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Technistone,Coronado,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Technistone,Fairy White,,Winter,4101,171,90,253,253,252,3,0,Primary
+Technistone,Iced Mocha,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Technistone,Iced White,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Technistone,Lagos Azul,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Technistone,Mojave,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Technistone,Rushmore,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Technistone,Sahara Beige,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Technistone,Santa Felicita,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Technistone,Shadow Gray,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Technistone,Sherwood Forest,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Technistone,Sparkling Black,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Technistone,Sparkling Ruby,,Ruby,4629,0,0,0,0,0,0,1,Primary
+Technistone,Sparkling Ruby,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Technistone,Sparkling White,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Technistone,Toasted Almond,,Latte,4312,138,100,165,144,113,4,0,Primary
+Technistone,Toasted Almond,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Technistone,Acadia Brown,AC495,Olive,4520,149,91,74,63,37,0,1,Primary
+Technistone,Albion Amber,AA340,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Technistone,Aleutian White,AW130,Glacier,4111,134,90,253,253,252,3,0,Primary
+Technistone,Amazon Twilight,,,Call,,,,,,,0,
+Technistone,Andian Sepia,,,Call,,,,,,,0,
+Technistone,Antigua Beach,AN230,Cream,4232,127,100,211,201,177,4,0,Primary
+Technistone,Appalachian Umber,AU490,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Technistone,Atlas Brown,AB850,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Technistone,Bora Bora Beige,BO214,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Technistone,Bristol Beige,BB227,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Technistone,Cascade Pebble,,,Call,,,,,,,0,
+Technistone,Caucasus Gray,CS906,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Technistone,Columbia Gray,CG910,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Technistone,Cumberland Flax,CF350,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Technistone,Cyprus Orange,CO420,Mandarin,4619,0,0,0,0,0,0,1,Primary
+Technistone,Diamond Black,DB990,Midnight,4532,143,100,0,0,0,4,1,Primary
+Technistone,Diamond White,DW105,Winter,4101,171,90,253,253,252,3,0,Primary
+Technistone,Everest White,EW120,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Technistone,Ferio Black,FB991,Midnight,4532,143,100,0,0,0,4,1,Primary
+Technistone,Gentle Gray,GG900,Stone,4222,164,85,214,204,186,3,0,Primary
+Technistone,Gold Canyon Gray,GG950,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Technistone,Himalayan Blue,,,Call,,,,,,,0,
+Technistone,Imperial Gray,IG910,Willow,4314,170,100,183,171,143,0,0,Primary
+Technistone,Kauai Cream,KC213,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+Technistone,Kenai Pear,KP720,Lime,4632,0,0,0,0,0,0,1,Primary
+Technistone,Korbu Cocoa,,,Call,,,,,,,0,
+Technistone,Kunlun Ink,KI992,Midnight,4532,143,100,0,0,0,4,1,Primary
+Technistone,Mariposa Buff,MU410,Fawn,4316,131,100,148,125,96,3,0,Primary
+Vendura,Matala Tan,MT220,Beach,4230,112,100,208,186,148,3,0,Primary
+Vendura,Mauna Loa Black,MB990,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Vendura,Midnight Sapphire,MS980,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Vendura,Mirama Bronze,MI780,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Vendura,Moab Canyon Sienna,,,Call,,,,,,,0,
+Vendura,Mont Blanc Snow,MS141,Glacier,4111,134,90,253,253,252,3,0,Primary
+Vendura,Mykonos Beige,CK230,Earth,4628,0,0,0,0,0,0,1,Primary
+Vendura,Palau Java,PJ475,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Vendura,Patagonia Gray,,,Call,,,,,,,0,
+Vendura,Pinnacle Desert Taupe,,,Call,,,,,,,0,
+Vendura,Rangoon Black,RG994,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Vendura,Rocky Mountain Brown,RB470,Olive,4520,149,91,74,63,37,0,1,Primary
+Vendura,Salina Red,SR461,Fire,4621,0,0,0,0,0,0,1,Primary
+Vendura,Saltoro Cliff,SC235,Cream,4232,127,100,211,201,177,4,0,Primary
+Vendura,Sechura Mocha,SM499,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Vendura,Soback Beige,,,Call,,,,,,,0,
+Vendura,St Helens White,SH145,Glacier,4111,134,90,253,253,252,3,0,Primary
+Vendura,Teton Beige,TE215,Earth,4628,0,0,0,0,0,0,1,Primary
+Vendura,Toba Blackridge,,,Call,,,,,,,0,
+Vendura,Toluca Sand,TS495,Sonora,4317,163,100,172,157,135,0,0,Primary
+Vendura,Toluca Sand,TS495,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Vendura,Trevathan Black,,,Call,,,,,,,0,
+Vendura,Ural Gray,UG950,Pudding,4606,154,88,45,39,18,3,1,Primary
+Vendura,Absolute Black,,,Call,,,,,,,0,
+Vendura,Absolute Green,,,Call,,,,,,,0,
+Vendura,African Red,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Vendura,Agazul,,,Call,,,,,,,0,
+Vendura,Alpina White,,Fawn,4316,131,100,148,125,96,3,0,Primary
+Vendura,Altair,,Olive,4520,149,91,74,63,37,0,1,Primary
+Vendura,Amarillo Dream,,Orange,4633,0,0,0,0,0,0,1,Primary
+Vendura,Amarillo Palmira,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Vendura,Amarillo Sand,,,Call,,,,,,,0,
+Vendura,Amazon,,Mesa,4604,142,93,39,33,29,4,1,Primary
+Vendura,Antique Gold,,,Call,,,,,,,0,
+Vendura,Arden Blue,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Vendura,Azul Ugarit,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Vendura,Bamboo,,Beach,4230,112,100,208,186,148,3,0,Primary
+Vendura,Beige Olimpo,,,Call,,,,,,,0,
+Vendura,Bianco Rivers,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Vendura,Black Canyon,,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Vendura,Black Dragon,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Vendura,Black Forest,,,Call,,,,,,,0,
+Vendura,Blanco Capri,,Flax,4627,0,0,0,0,0,0,1,Primary
+Vendura,Blanco City,,Earth,4628,0,0,0,0,0,0,1,Primary
+Vendura,Blanco Dali,,,Call,,,,,,,0,
+Vendura,Blanco Dune,,Flax,4627,0,0,0,0,0,0,1,Primary
+Vendura,Blanco Maple,,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Vendura,Blanco North,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Vendura,Blanco Zues,,Winter,4101,171,90,253,253,252,3,0,Primary
+Vendura,Blue Cielo,,,Call,,,,,,,0,
+Vendura,Blue Safita,,,Call,,,,,,,0,
+Vendura,Blue Sahara,,,Call,,,,,,,0,
+Vendura,Brazillian Brown,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Vendura,Brick Marte,,,Call,,,,,,,0,
+Vendura,Capri Limestone,,,Call,,,,,,,0,
+Vendura,Carbono,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Vendura,Cemento,,Lava,4521,139,100,87,86,77,4.5,1,Alternate
+Vendura,Chrome,,Pewter,4518,152,90,146,136,119,3.5,0,Alternate
+Vendura,Coffee Brown,,,Call,,,,,,,0,
+Vendura,Coral Troya,,,Call,,,,,,,0,
+Vendura,Crema Minerva,,Earth,4628,0,0,0,0,0,0,1,Primary
+Vendura,Crema Urbana,,Earth,4628,0,0,0,0,0,0,1,Primary
+Vendura,Crystal Ash,,,Call,,,,,,,0,
+Vendura,Crystal Sand,,,Call,,,,,,,0,
+Vendura,Cygnus,,Prairie,4516,153,90,137,139,123,3.5,0,Alternate
+Vendura,Diana Pearl,,Beach,4230,112,100,208,186,148,3,0,Primary
+Vendura,Dinux,,,Call,,,,,,,0,
+Vendura,Doradus,,Espresso,4528,130,100,58,58,58,4.5,1,Primary
+Vendura,Dragon Black,,,Call,,,,,,,0,
+Vendura,Ebony Pearl,,,Call,,,,,,,0,
+Vendura,Emerald Pearl,,,Call,,,,,,,0,
+Vendura,Eros Stellar,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Vendura,Eros Stellar,,Ruby,4629,0,0,0,0,0,0,1,Primary
+Vendura,Gedatsu,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Vendura,Giallo Nova,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Vendura,Giallo Quarry,,Latte,4312,138,100,165,144,113,4,0,Primary
+Vendura,Green River,,,Call,,,,,,,0,
+Vendura,Grey Amazon,,,Call,,,,,,,0,
+Vendura,Grey Expo,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Vendura,Haiku,,Flax,4627,0,0,0,0,0,0,1,Primary
+Vendura,Halley,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Vendura,Iron Ore,,,Call,,,,,,,0,
+Wilsonart,Ivory Coast,,Beige,4228,113,100,211,189,151,3,0,Alternate
+Wilsonart,Kalahari,,Beige,4228,113,100,211,189,151,3,0,Primary
+Wilsonart,Kensho,,Fog,4200,133,88,250,250,248,2.5,0,Alternate
+Wilsonart,Kimbler,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Wilsonart,Kona Beige,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+Wilsonart,Lagoon,,Natural,4214,147,89,255,255,255,3,0,Primary
+Wilsonart,Luna,,,Call,,,,,,,0,
+Wilsonart,Lyra,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Wilsonart,Magenta Energy,,Magenta,4631,0,0,0,0,0,0,1,Primary
+Wilsonart,Magma,,,Call,,,,,,,0,
+Wilsonart,Mahogany,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Wilsonart,Marengo,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Wilsonart,Marine Stellar,,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Wilsonart,Marine Stellar,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Wilsonart,Marron Bois,,,Call,,,,,,,0,
+Wilsonart,Marron Jupiter,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+Wilsonart,Merope,,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Wilsonart,Minerva Cream,,,Call,,,,,,,0,
+Wilsonart,Mississippi,,,Call,,,,,,,0,
+Wilsonart,Mont Blanc,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Wilsonart,Mountain Mist,,Pudding,4606,154,88,45,39,18,3,1,Primary
+Wilsonart,Naranja Cool,,Mandarin,4619,0,0,0,0,0,0,1,Primary
+Wilsonart,Naranja Fuego,,Burnt,4630,0,0,0,0,0,0,1,Primary
+Wilsonart,Negro Anubus,,,Call,,,,,,,0,
+Wilsonart,Negro Ulises,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+Wilsonart,Niebla,,Cream,4232,127,100,211,201,177,4,0,Primary
+Wilsonart,Night Mist,,Espresso,4528,130,100,58,58,58,4.5,1,Primary
+Wilsonart,Nile,,,Call,,,,,,,0,
+Wilsonart,Olive Green,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Wilsonart,Perla Diana,,Beach,4230,112,100,208,186,148,3,0,Primary
+Wilsonart,Polar Cap,,,Call,,,,,,,0,
+Wilsonart,Quasar,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Wilsonart,Rain Forest,,Espresso,4528,130,100,58,58,58,4.5,1,Primary
+Wilsonart,Rhin,,,Call,,,,,,,0,
+Wilsonart,Riverbed,,,Call,,,,,,,0,
+Wilsonart,Rosa Gray,,,Call,,,,,,,0,
+Wilsonart,Rosso Monza,,Hot,4617,0,0,0,0,0,0,1,Primary
+Wilsonart,Santa Fe Brown,,,Call,,,,,,,0,
+Wilsonart,Satori,,Auburn,4330,111,100,71,58,57,5,1,Primary
+Wilsonart,Seleno,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Wilsonart,Sienna Ridge,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+Wilsonart,Sierra Madre,,Mocha,4322,146,95,95,68,53,4,1,Primary
+Wilsonart,Silver Nube,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Wilsonart,Siridium,,,Call,,,,,,,0,
+Wilsonart,Sonora Gold,,,Call,,,,,,,0,
+Wilsonart,Starlight,,,Call,,,,,,,0,
+Wilsonart,Steel,,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Wilsonart,Stellar Eros,,Ruby,4629,0,0,0,0,0,0,1,Primary
+Wilsonart,Stellar Eros,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+Wilsonart,Stellar Marine,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+Wilsonart,Stellar Marine,,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Wilsonart,Stellar Night,,Espresso,4528,130,100,58,58,58,4.5,1,Primary
+Wilsonart,Stellar Rose,,,Call,,,,,,,0,
+Wilsonart,Stellar Sky,,,Call,,,,,,,0,
+Wilsonart,Stellar Snow,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+Wilsonart,Tao,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Wilsonart,Tea Leaf,,,Call,,,,,,,0,
+Wilsonart,Tebas Black,,Midnight,4532,143,100,0,0,0,4,1,Primary
+Wilsonart,Terra,,,Call,,,,,,,0,
+Wilsonart,Tigris Sand,,Flax,4627,0,0,0,0,0,0,1,Primary
+Wilsonart,Toffe,,Sonora,4317,163,100,172,157,135,0,0,Primary
+Wilsonart,Travertine,,,Call,,,,,,,0,
+Wilsonart,Tritium,,,Call,,,,,,,0,
+Wilsonart,Unsui,,Sonora,4317,163,100,172,157,135,0,0,Primary
+Wilsonart,Verde Fun,,Lime,4632,0,0,0,0,0,0,1,Primary
+Wilsonart,Verde Medea,,,Call,,,,,,,0,
+Wilsonart,Verde Ugarit,,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Wilsonart,Vortium,,,Call,,,,,,,0,
+Wilsonart,White Dali,,,Call,,,,,,,0,
+Wilsonart,White Diamond,,,Call,,,,,,,0,
+Wilsonart,White Dune,,Flax,4627,0,0,0,0,0,0,1,Primary
+Wilsonart,White North,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Wilsonart,White Platinum,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Wilsonart,White Zeus Extreme,,,Call,,,,,,,0,
+Wilsonart,White Zues,,Winter,4101,171,90,253,253,252,3,0,Alternate
+Wilsonart,Yukon,,Glacier,4111,134,90,253,253,252,3,0,Primary
+Wilsonart,Zirconium,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Wilsonart,Aspen Amber,,,Call,,,,,,,0,
+Wilsonart,Aspen Brown,AB632,Fawn,4316,131,100,148,125,96,3,0,Primary
+Wilsonart,Aspen Dark,,,Call,,,,,,,0,
+Wilsonart,Aspen Flax,,,Call,,,,,,,0,
+Wilsonart,Aspen Green,,,Call,,,,,,,0,
+Wilsonart,Aspen Jade,AJ662,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Wilsonart,Aspen Lily,AL645,,Call,,,,,,,0,
+Wilsonart,Aspen Mine,AM633,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Wilsonart,Aspen Pepper,AP640,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Wilsonart,Aspen Putty,,,Call,,,,,,,0,
+Wilsonart,Aspen Sky,AS670,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Wilsonart,Aspen Slate,,,Call,,,,,,,0,
+Wilsonart,Aspen Snow,AS610,Natural,4214,147,89,255,255,255,3,0,Alternate
+Wilsonart,Aspen Spruce,,,Call,,,,,,,0,
+Wilsonart,Breccia Bisque,BB725,Beige,4228,113,100,211,189,151,3,0,Primary
+Wilsonart,Breccia Rio Grande,BR790,Cream,4232,127,100,211,201,177,4,0,Primary
+Wilsonart,Breccia Stoneware,,,Call,,,,,,,0,
+Wilsonart,Bright White,BW010,Winter,4101,171,90,253,253,252,3,0,Primary
+Wilsonart,Ivory,SI040,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Wilsonart,Mosaic Black Bean,QB299,Midnight,4532,143,100,0,0,0,4,1,Primary
+Wilsonart,Mosaic Dalmatian,QD212,Winter,4101,171,90,253,253,252,3,0,Alternate
+Wilsonart,Mosaic Nimbus,QN287,,Call,,,,,,,0,
+Wilsonart,Pearl,SP011,Snow,4108,162,100,243,246,236,0,0,Primary
+Wilsonart,Pebble Aqua,PA860,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+Wilsonart,Pebble Basalt,,,Call,,,,,,,0,
+Wilsonart,Pebble Beach,PB812,Stone,4222,164,85,214,204,186,3,0,Primary
+Wilsonart,Pebble Blue,PB870,Cobalt,4607,0,0,0,0,0,0,1,Primary
+Wilsonart,Pebble Caper,,,Call,,,,,,,0,
+Wilsonart,Pebble Castle,,,Call,,,,,,,0,
+Wilsonart,Pebble Chiffon,PC482,Stone,4222,164,85,214,204,186,3,0,Primary
+Wilsonart,Pebble Copper,PC851,Rust,4424,156,91,118,62,31,4,1,Primary
+Wilsonart,Pebble Ebony,PE814,Midnight,4532,143,100,0,0,0,4,1,Alternate
+Wilsonart,Pebble Fennel,,,Call,,,,,,,0,
+Wilsonart,Pebble Frost,PF812,Natural,4214,147,89,255,255,255,3,0,Primary
+Wilsonart,Pebble Gold,PG840,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Wilsonart,Pebble Grey,PG810,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Wilsonart,Pebble Maize,PM841,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Wilsonart,Pebble Saratoga,PS820,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Wilsonart Quartz,Pebble Seastar,PS843,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Wilsonart Quartz,Pebble Shale,,,Call,,,,,,,0,
+Wilsonart Quartz,Pebble Sienna,PS852,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Wilsonart Quartz,Pebble Tea Rose,PT845,Stone,4222,164,85,214,204,186,3,0,Primary
+Wilsonart Quartz,Quarry Arroyo,,,Call,,,,,,,0,
+Wilsonart Quartz,Quarry Bisque,BB725,Stone,4222,164,85,214,204,186,3,0,Primary
+Wilsonart Quartz,Quarry Bluff,QB244,Mesa,4604,142,93,39,33,29,4,1,Primary
+Wilsonart Quartz,Quarry Butte,QB265,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Wilsonart Quartz,Quarry Canyon,,,Call,,,,,,,0,
+Wilsonart Quartz,Quarry Esker,QE240,Sand,4216,157,95,255,244,233,2.5,0,Primary
+Wilsonart Quartz,Quarry Mallard,,,Call,,,,,,,0,
+Wilsonart Quartz,Quarry Mesa,QM242,Fawn,4316,131,100,148,125,96,3,0,Primary
+Wilsonart Quartz,Quarry Palisade,QP245,Mesa,4604,142,93,39,33,29,4,1,Primary
+Wilsonart Quartz,Quarry Rio Grande,BR790,,Call,,,,,,,0,
+Wilsonart Quartz,Quarry Riverbed,,,Call,,,,,,,0,
+Wilsonart Quartz,Quarry Sandbar,TS345,Beige,4228,113,100,211,189,151,3,0,Primary
+Wilsonart Quartz,Quary Oyster,TO310,Satin,4110,158,100,239,242,232,2.5,0,Primary
+Wilsonart Quartz,Sanded Ginger,SG431,Cream,4232,127,100,211,201,177,4,0,Primary
+Wilsonart Quartz,Sanded Birch,SB412,Satin,4110,158,100,239,242,232,2.5,0,Primary
+Wilsonart Quartz,Sanded Clay,SC475,,Call,,,,,,,0,
+Wilsonart Quartz,Sanded Cream,SM421,Natural,4214,147,89,255,255,255,3,0,Alternate
+Zodiaq,Sanded Dark Nebula,DN421,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Zodiaq,Sanded Gold Dust,SG441,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Zodiaq,Sanded Grey,SG420,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+Zodiaq,Sanded Leaf,,,Call,,,,,,,0,
+Zodiaq,Sanded Linen,SL443,,Call,,,,,,,0,
+Zodiaq,Sanded Marine,,,Call,,,,,,,0,
+Zodiaq,Sanded Mocha,SM453,Mesa,4604,142,93,39,33,29,4,1,Alternate
+Zodiaq,Sanded Nebula,SN431,Slate,4512,160,99,154,140,125,2.5,0,Primary
+Zodiaq,Sanded Noir,,,Call,,,,,,,0,
+Zodiaq,Sanded Onyx,SO423,Midnight,4532,143,100,0,0,0,4,1,Primary
+Zodiaq,Sanded Papyrus,SP474,,Call,,,,,,,0,
+Zodiaq,Sanded Sahara,SS440,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+Zodiaq,Sanded Tundra,ST482,Thunder,4522,165,100,82,82,82,4.5,1,Primary
+Zodiaq,Sanded Vermillion,SV430,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Zodiaq,Sanded Wheat,,,Call,,,,,,,0,
+Zodiaq,Sanded White Pepper,WP410,Misty,4220,145,84,231,234,224,2.5,0,Primary
+Zodiaq,Talus Oyster,TO310,Natural,4214,147,89,255,255,255,3,0,Primary
+Zodiaq,Talus Sandbar,TS345,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Zodiaq,Tempest Adamantine,FA159,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Zodiaq,Tempest Bronzestar,FB154,Olive,4520,149,91,74,63,37,0,1,Primary
+Zodiaq,Tempest Caraway,FC155,Cream,4232,127,100,211,201,177,4,0,Primary
+Zodiaq,Tempest Cinnamon,FC153,Latte,4312,138,100,165,144,113,4,0,Primary
+Zodiaq,Tempest Coffee Bean,FC158,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Zodiaq,Tempest Colluvium,FC151,,Call,,,,,,,0,
+Zodiaq,Tempest Confection,FC116,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Zodiaq,Tempest Copperplate,FC156,Chocolate,4324,120,100,52,33,0,3,1,Primary
+Zodiaq,Tempest Dapple,FD187,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+Zodiaq,Tempest Glimmer,FG144,Cream,4232,127,100,211,201,177,4,0,Primary
+Zodiaq,Tempest Gold Leaf,FG196,Roast,4332,155,92,53,48,43,4.5,1,Alternate
+Zodiaq,Tempest Horizon,FH114,Marble,4106,141,88,246,246,244,3.5,0,Primary
+Zodiaq,Tempest Igneous,FI187,,Call,,,,,,,0,
+Zodiaq,Tempest Milestone,FM185,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Zodiaq,Tempest Peak,FP100,Winter,4101,171,90,253,253,252,3,0,Primary
+Zodiaq,Tempest Prairie,FP142,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+Zodiaq,Tempest Radiance,FR148,Roast,4332,155,92,53,48,43,4.5,1,Primary
+Zodiaq,Tempest Rattan,FR124,Dune,4310,128,100,199,173,139,3.5,0,Primary
+Zodiaq,Tempest Russet,FR156,Latte,4312,138,100,165,144,113,4,0,Primary
+Zodiaq,Tempest Sandpiper,FR121,Newport,4116,148,90,228,228,228,0,0,Primary
+Zodiaq,Tempest Shell,FS115,Stone,4222,164,85,214,204,186,3,0,Primary
+Zodiaq,Tempest Sierra,FS123,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+Zodiaq,Tempest Sonoma,FS143,Cream,4232,127,100,211,201,177,4,0,Primary
+Zodiaq,Tempest Starfire,FS198,Midnight,4532,143,100,0,0,0,4,1,Primary
+Zodiaq,Tempest Whippoorwill,FW145,Mesa,4604,142,93,39,33,29,4,1,Primary
+Zodiaq,Tempest Zenith,FZ184,Shale,4525,159,95,32,32,20,4.5,1,Primary
+Zodiaq,Arizona,,,Call,,,,,,,0,
+Zodiaq,Brilliant Black,,,Call,,,,,,,0,
+Zodiaq,Brilliant White,,,Call,,,,,,,0,
+Zodiaq,Classic Beige,,,Call,,,,,,,0,
+Zodiaq,Classic Black,,,Call,,,,,,,0,
+Zodiaq,Classic Gray,,,Call,,,,,,,0,
+Zodiaq,Classic Ice,,,Call,,,,,,,0,
+Zodiaq,Classic Nevada,,,Call,,,,,,,0,
+Zodiaq,Crystal Absolute White,,,Call,,,,,,,0,
+Zodiaq,Crystal Almond,,,Call,,,,,,,0,
+Zodiaq,Crystal Arctic,,,Call,,,,,,,0,
+Zodiaq,Crystal Beach,,,Call,,,,,,,0,
+Zodiaq,Crystal Black,,,Call,,,,,,,0,
+Zodiaq,Crystal Colorado,,,Call,,,,,,,0,
+Zodiaq,Crystal Cream Beige,,,Call,,,,,,,0,
+Zodiaq,Crystal Dark Shell,,,Call,,,,,,,0,
+Zodiaq,Crystal Diamond,,,Call,,,,,,,0,
+Zodiaq,Crystal Montana,,,Call,,,,,,,0,
+Zodiaq,Crystal Olivine,,,Call,,,,,,,0,
+Zodiaq,Crystal Polar White,,,Call,,,,,,,0,
+Zodiaq,Crystal Quartz White,,,Call,,,,,,,0,
+Zodiaq,Crystal Royal,,,Call,,,,,,,0,
+Zodiaq,Crystal Sahara,,,Call,,,,,,,0,
+Zodiaq,Crystal Savannah,,,Call,,,,,,,0,
+Zodiaq,Crystal Topaz,,,Call,,,,,,,0,
+Zodiaq,Elegance Concrete Gray,,,Call,,,,,,,0,
+Zodiaq,Elegance Cream,,,Call,,,,,,,0,
+Zodiaq,Elegance Dark Gray,,,Call,,,,,,,0,
+Zodiaq,Gobi Black,,,Call,,,,,,,0,
+Zodiaq,Gobi Brown,,,Call,,,,,,,0,
+Zodiaq,Gobi Grey,,,Call,,,,,,,0,
+Zodiaq,Gobi Mahoghany,,,Call,,,,,,,0,
+Zodiaq,Gobi White,,,Call,,,,,,,0,
+Zodiaq,Harmonia Altay,,,Call,,,,,,,0,
+,Harmonia Cerros,,,Call,,,,,,,0,
+,Harmonia Dolomites,,,Call,,,,,,,0,
+,Harmonia Sierra,,,Call,,,,,,,0,
+,Impala Gray,,,Call,,,,,,,0,
+,Kalahari,,,Call,,,,,,,0,
+,Karpat Arizona,,,Call,,,,,,,0,
+,Nordic,,,Call,,,,,,,0,
+,Palos Verde,,,Call,,,,,,,0,
+,Sonora,,,Call,,,,,,,0,
+,Sonora Light,,,Call,,,,,,,0,
+,Starlight Black,,,Call,,,,,,,0,
+,Starlight Blue,,,Call,,,,,,,0,
+,Starlight Brown,,,Call,,,,,,,0,
+,Starlight Desert,,,Call,,,,,,,0,
+,Starlight Fresh Brown,,,Call,,,,,,,0,
+,Starlight Green,,,Call,,,,,,,0,
+,Starlight Grey,,,Call,,,,,,,0,
+,Starlight Red,,,Call,,,,,,,0,
+,Starlight Sand,,,Call,,,,,,,0,
+,Starlight White,,,Call,,,,,,,0,
+,Straight Black,,,Call,,,,,,,0,
+,Taurus,,,Call,,,,,,,0,
+,Taurus Blue Bahia,,,Call,,,,,,,0,
+,Taurus Brown Pearl,,,Call,,,,,,,0,
+,Taurus Gold,,,Call,,,,,,,0,
+,Taurus Nordic,,,Call,,,,,,,0,
+,Translucent Ice,,,Call,,,,,,,0,
+,Translucent Onyx,,,Call,,,,,,,0,
+,Translucent Snow White,,,Call,,,,,,,0,
+,Venetian Day,,,Call,,,,,,,0,
+,Venetian Night,,,Call,,,,,,,0,
+,Venetian Sunset,,,Call,,,,,,,0,
+,Allante,,,Call,,,,,,,0,
+,Almondine,,,Call,,,,,,,0,
+,Ambrosia,,,Call,,,,,,,0,
+,Arabella,,,Call,,,,,,,0,
+,Aspen Bark,,,Call,,,,,,,0,
+,Bahia Blanca,,,Call,,,,,,,0,
+,Baltic Amber,,,Call,,,,,,,0,
+,Bamboo,,,Call,,,,,,,0,
+,Belgian Truffle,,,Call,,,,,,,0,
+,Bermuda,,,Call,,,,,,,0,
+,Black Walnut,,,Call,,,,,,,0,
+,Bone,,,Call,,,,,,,0,
+,Boston Brown,,,Call,,,,,,,0,
+,Butter Brickle,,,Call,,,,,,,0,
+,Canyon Pebble,,,Call,,,,,,,0,
+,Cape Town,,,Call,,,,,,,0,
+,Capri,,,Call,,,,,,,0,
+,Caspian Stone,,,Call,,,,,,,0,
+,Cayman,,,Call,,,,,,,0,
+,Chartre Blue,,,Call,,,,,,,0,
+,Chateau Silk,,,Call,,,,,,,0,
+,Chiffon,,,Call,,,,,,,0,
+,Cream,,,Call,,,,,,,0,
+,Dakota Bay,,,Call,,,,,,,0,
+,Dublin Quartz,,,Call,,,,,,,0,
+,Ebony Star,,,Call,,,,,,,0,
+,Espresso Royale,,,Call,,,,,,,0,
+,Flannel,,,Call,,,,,,,0,
+,Folkstone,,,Call,,,,,,,0,
+,French Cotton,,,Call,,,,,,,0,
+,Frost,,,Call,,,,,,,0,
+,Galaxy Gray,,,Call,,,,,,,0,
+,Gardenia,,,Call,,,,,,,0,
+,Ginger Bread,,,Call,,,,,,,0,
+,Gobi,,,Call,,,,,,,0,
+,Icelantik Champagne,,,Call,,,,,,,0,
+,Icelantik Cottage White,,,Call,,,,,,,0,
+,Icelantik Eton Blue,,,Call,,,,,,,0,
+,Icelantik Glacier,,,Call,,,,,,,0,
+,Icelantik Limone,,,Call,,,,,,,0,
+,Icelantik Mint Mirage,,,Call,,,,,,,0,
+,Icelantik Misty Meadow,,,Call,,,,,,,0,
+,Icelantik Moccasin,,,Call,,,,,,,0,
+,Icelantik Rose Bluch,,,Call,,,,,,,0,
+,Icelantik Silk,,,Call,,,,,,,0,
+,Icelantik Storm,,,Call,,,,,,,0,
+,Icelantik Sunset Orange,,,Call,,,,,,,0,
+,Ivory White,,,Call,,,,,,,0,
+,Jamaican Sand,,,Call,,,,,,,0,
+,London Gray,,,Call,,,,,,,0,
+,Lt Khaki,,,Call,,,,,,,0,
+,Lucca,,,Call,,,,,,,0,
+,Lunar,,,Call,,,,,,,0,
+,Mocha,,,Call,,,,,,,0,
+,Napoli,,,Call,,,,,,,0,
+,Natural Bone,,,Call,,,,,,,0,
+,Natural Cream,,,Call,,,,,,,0,
+,Natural Ivory,,,Call,,,,,,,0,
+,Natural Lt Khaki,,,Call,,,,,,,0,
+,Natural Pearl,,,Call,,,,,,,0,
+,Natural Platinum,,,Call,,,,,,,0,
+,Navaho,,,Call,,,,,,,0,
+,Olive Branch,,,Call,,,,,,,0,
+,Pearl,,,Call,,,,,,,0,
+,Pebble Beach,,,Call,,,,,,,0,
+,Persian Indigo,,,Call,,,,,,,0,
+,Pewter,,,Call,,,,,,,0,
+,Platinum Gray,,,Call,,,,,,,0,
+,Porto Rossi,,,Call,,,,,,,0,
+,Quarry Frost,,,Call,,,,,,,0,
+,Red Palm,,,Call,,,,,,,0,
+,Rocky Mountain,,,Call,,,,,,,0,
+,Samara,,,Call,,,,,,,0,
+,Sand,,,Call,,,,,,,0,Alternate
+,Sandpiper,,,Call,,,,,,,0,
+,Seashell,,,Call,,,,,,,0,Alternate
+,Serengeti,,,Call,,,,,,,0,
+,Shadow,,,Call,,,,,,,0,
+,Spanish Moss,,,Call,,,,,,,0,
+,Stockholm,,,Call,,,,,,,0,
+,Toffee,,,Call,,,,,,,0,
+,Vanilla,,,Call,,,,,,,0,
+,Acadia Melange,,,Call,,,,,,,0,
+,Adirondack Melange,,,Call,,,,,,,0,
+,Alabaster Mirage,,,Call,,,,,,,0,
+,Alpine Melange,,,Call,,,,,,,0,
+,Antique White,1572SL,Antique,4109,109,97,255,247,240,3.5,0,Primary
+,Arabian Melange,9032ML,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+,Arctic Melange,9070ML,Stone,4222,164,85,214,204,186,3,0,Primary
+,Aspen Melange,,,Call,,,,,,,0,
+,Astral Spectra,,,Call,,,,,,,0,
+,Atlantis Mirage,,,Call,,,,,,,0,
+,Avalanche Melange,9175ML,Winter,4101,171,90,253,253,252,3,0,Primary
+,Baja Melange,9030ML,Beach,4230,112,100,208,186,148,3,0,Primary
+,Basalt,,,Call,,,,,,,0,
+,Bedrock,9042EA,Camel,4610,0,0,0,0,0,0,1,Primary
+,Beige Tempest,1530TM,Beach,4230,112,100,208,186,148,3,0,Primary
+,Black Onyx Mirage,9092MG,Pitch,4534,0,0,0,0,0,0,1,Primary
+,Blanco Riverstone,9137RS,Sand,4216,157,95,255,244,233,2.5,0,Primary
+,Bluestone,9074EA,Milk,4602,144,88,246,246,244,2.5,0,Primary
+,Bluff Riverstone,9043RS,Dune,4310,128,100,199,173,139,3.5,0,Primary
+,Burnt Amber Mirage,9040MG,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+,Calypso Melange,9073ML,Marble,4106,141,88,246,246,244,3.5,0,Primary
+,Candy Spectra,,,Call,,,,,,,0,
+,Capers,9063GG,Oregano,4636,0,0,0,0,0,0,1,Primary
+,Caramel Melange,9033ML,Camel,4610,0,0,0,0,0,0,1,Primary
+,Cascades Melange,,Slate,4512,160,99,154,140,125,2.5,0,Primary
+,Cashmere Mirage,9135MG,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+,Chai Cream Mirrage,9111MG,Winter,4101,171,90,253,253,252,3,0,Alternate
+,Chicory Cream Melange,9047ML,Dune,4310,128,100,199,173,139,3.5,0,Primary
+,Chipped Chocolate,9104CS,Coffee,4643,0,0,0,0,0,0,1,Primary
+,Clouded,9107CS,Ash,4623,110,91,46,40,17,4.5,1,Primary
+,Cocoa Chile,9065GG,Mocha,4322,146,95,95,68,53,4,1,Primary
+,Coconut Oil,9100GS,Winter,4101,171,90,253,253,252,3,0,Primary
+,Copper Melange,,,Call,,,,,,,0,Alternate
+,Crystal Blue,9026CY,Pewter,4518,152,90,146,136,119,3.5,0,Alternate
+,Crystal Champagne,9145CY,Dune,4310,128,100,199,173,139,3.5,0,Alternate
+,Crystal Mint,9054CY,Prairie,4516,153,90,137,139,123,3.5,0,Alternate
+,Cumin,9067GG,Latte,4312,138,100,165,144,113,4,0,Primary
+,Desert Melange,9114ML,Dune,4310,128,100,199,173,139,3.5,0,Primary
+,Designer White,D354SL,Glacier,4111,134,90,253,253,252,3,0,Primary
+,Dry Creek Riverstone,9136RS,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+,Durango,9174EA,Milk,4602,144,88,246,246,244,2.5,0,Alternate
+,Eureka Melange,,,Call,,,,,,,0,
+,Everglade Melange,,,Call,,,,,,,0,Alternate
+,Fawn Mirage,,,Call,,,,,,,0,
+,Flagstone,9038EA,Beach,4230,112,100,208,186,148,3,0,Primary
+,Fossil Riverstone,9117RS,Stone,4222,164,85,214,204,186,3,0,Primary
+,French Blue Melange,9024ML,Pewter,4518,152,90,146,136,119,3.5,0,Primary
+,Fresco Creta,,,Call,,,,,,,0,
+,Frosty White,1537SL,Milk,4602,144,88,246,246,244,2.5,0,Primary
+,Frosty White Mirage,1573MG,Milk,4602,144,88,246,246,244,2.5,0,Primary
+,Garden Mirage,,,Call,,,,,,,0,
+,Garnet Glitz,9109CS,Chestnut,4644,0,0,0,0,0,0,1,Primary
+,Gold Glitz,9108CS,Roast,4332,155,92,53,48,43,4.5,1,Alternate
+,Graphite Mirage,,,Call,,,,,,,0,
+,Grey Mirage,,,Call,,,,,,,0,
+,Hearthstone,,,Call,,,,,,,0,
+,Herbal Mint,9102GS,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+,Indigo Melange,9027ML,Ocean,4614,0,0,0,0,0,0,1,Primary
+,Jade Mirage,,,Call,,,,,,,0,
+,Juniper Mirage,9085MG,Moss,4647,0,0,0,0,0,0,1,Primary
+,Khaki Brown Tempest,D50TM,Dune,4310,128,100,199,173,139,3.5,0,Primary
+,Light Beige Mirage,1531MG,Beach,4230,112,100,208,186,148,3,0,Primary
+,Maize Mirage,9112MG,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+,Maple Harvest,9106CS,Adobe,4608,0,0,0,0,0,0,1,Primary
+,Marzipan Mirage,9130MG,Sand,4216,157,95,255,244,233,2.5,0,Primary
+,Meadow Melange,9113ML,Stone,4222,164,85,214,204,186,3,0,Primary
+,Midnight Melange,9091ML,Shale,4525,159,95,32,32,20,4.5,1,Primary
+,Milk & Honey,9103GS,Marble,4106,141,88,246,246,244,3.5,0,Primary
+,Milk Glass Spectra,9077ST,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+,Mineral,,,Call,,,,,,,0,
+,Mojave Melange,9031ML,Beach,4230,112,100,208,186,148,3,0,Primary
+,Moon Riverstone,,,Call,,,,,,,0,
+,Moonstruck Mirage,,,Call,,,,,,,0,Alternate
+,Natural Almond,D30SL,Ecru,4637,0,0,0,0,0,0,1,Primary
+,Nevada,9140EA,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+,Night Stars,9105CS,Pitch,4534,0,0,0,0,0,0,1,Primary
+,Northern Melange,9195ML,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+,Nutmeg,9064GG,Nutmeg,4635,0,0,0,0,0,0,1,Primary
+,Oatmeal,9101GS,Stone,4222,164,85,214,204,186,3,0,Primary
+,Olive Fresco,9059CC,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+,Palmetto,,,Call,,,,,,,0,
+,Palomino,,,Call,,,,,,,0,
+,Paris Fog,9110CS,Stone,4222,164,85,214,204,186,3,0,Primary
+,Pawnee Mirage,,,Call,,,,,,,0,
+,Pebble,9036EA,Sand,4216,157,95,255,244,233,2.5,0,Alternate
+,Pisa Creta,,,Call,,,,,,,0,
+,Platinum Tempest,,,Call,,,,,,,0,
+,Prairie Sage,,,Call,,,,,,,0,
+,Quarry Melange,9041ML,Dune,4310,128,100,199,173,139,3.5,0,Primary
+,Raspberry Mirage,,,Call,,,,,,,0,Alternate
+,Raven Mirage,D426MG,Raven,4645,0,0,0,0,0,0,1,Primary
+,Royal Mirage,9028MG,Espresso,4528,130,100,58,58,58,4.5,1,Primary
+,San Gabriel Riverstone,9138RS,Beach,4230,112,100,208,186,148,3,0,Primary
+,Sandrift,,,Call,,,,,,,0,
+,Sapphire Mirage,,,Call,,,,,,,0,
+,Sea Mist Mirage,9089MG,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+,Sea Salt Spectra,,,Call,,,,,,,0,
+,Seacrest Mirage,,,Call,,,,,,,0,
+,Sesame,9066GG,Beach,4230,112,100,208,186,148,3,0,Primary
+,Sienna Riverstone,9148RS,Roast,4332,155,92,53,48,43,4.5,1,Primary
+,Snowy Mirage,,,Call,,,,,,,0,
+,Sonata Chocolate,9144SN,Coffee,4643,0,0,0,0,0,0,1,Primary
+,Sonata Espresso,9191SN,Chocolate,4324,120,100,52,33,0,3,1,Primary
+,Sonata Spruce,9053SN,Espresso,4528,130,100,58,58,58,4.5,1,Primary
+,Soothing Grey,9116GS,Milk,4602,144,88,246,246,244,2.5,0,Primary
+,Stardust Spectra,9098ST,Roast,4332,155,92,53,48,43,4.5,1,Alternate
+,Steel Grey Tempest,9194TM,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+,Taupe Mirage,,,Call,,,,,,,0,
+,Terrazo,9034EA,Cameo,4120,116,84,250,250,248,2.5,0,Primary
+,Venetian Creta,,,Call,,,,,,,0,
+,White Pepper,9062GG,Beach,4230,112,100,208,186,148,3,0,Primary
+,White Sands Mirage,,,Call,,,,,,,0,
+,Whitewater Riverstone,,,Call,,,,,,,0,
+,Woodland Riverstone,,,Call,,,,,,,0,
+,Zen Grey,9115GS,Aluminum,4642,0,0,0,0,0,0,1,Primary
+,Adena,Q4005,Chocolate,4324,120,100,52,33,0,3,1,Primary
+,Araku,Q4003,Cream,4232,127,100,211,201,177,4,0,Primary
+,Arashi,Q4011,Marble,4106,141,88,246,246,244,3.5,0,Primary
+,Aurora,Q2003,Roast,4332,155,92,53,48,43,4.5,1,Primary
+,Badaling,Q4001,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+,Chillkat,Q1013,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+,Colza,Q4002,Khaki,4236,137,98,164,145,104,4,0,Primary
+,Duomo,Q4007,Fog,4200,133,88,250,250,248,2.5,0,Primary
+,Gobi,Q1003,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+,Haida,Q4008,Winter,4101,171,90,253,253,252,3,0,Alternate
+,Kabi,Q3004,Misty,4220,145,84,231,234,224,2.5,0,Primary
+,Kolams,Q4009,Marble,4106,141,88,246,246,244,3.5,0,Primary
+,Lorraine,Q1012,Marble,4106,141,88,246,246,244,3.5,0,Primary
+,Lyra,Q2001,Marble,4106,141,88,246,246,244,3.5,0,Primary
+,Mehndi,Q4004,Ice,4218,136,8,231,234,224,1.5,0,Primary
+,Niwa,Q1002,Marble,4106,141,88,246,246,244,3.5,0,Primary
+,Sangda Falls,Q4012,Natural,4214,147,89,255,255,255,3,0,Alternate
+,Serene,Q1001,Winter,4101,171,90,253,253,252,3,0,Primary
+,Skye Cliff,Q3001,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+,Vittorio,Q3005,Misty,4220,145,84,231,234,224,2.5,0,Primary
+,Xcaret,Q4006,Roast,4332,155,92,53,48,43,4.5,1,Alternate
+,Abyss Black,,Shale,4525,159,95,32,32,20,4.5,1,Alternate
+,Alabaster,,,Call,,,,,,,0,
+,Alpha Brown,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+,Antique Pearl,,Beach,4230,112,100,208,186,148,3,0,Primary
+,Argil Brown,,,Call,,,,,,,0,
+,Argo Green,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+,Astral Pearl,,Beige,4228,113,100,211,189,151,3,0,Primary
+,Autumn Light,,Caramel,4234,118,97,168,138,93,3.5,0,Primary
+,Bianco Assooluto,,,Call,,,,,,,0,
+,Bianco Carrara,,Glacier,4111,134,90,253,253,252,3,0,Primary
+,Black Forest,,Lava,4521,139,100,87,86,77,4.5,1,Alternate
+,Borealis Blue,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+,Calm Spring,,Pearl,4510,151,80,220,220,220,3.5,0,Primary
+,Cappucino,,Earth,4628,0,0,0,0,0,0,1,Primary
+,Caraway,,Earth,4628,0,0,0,0,0,0,1,Primary
+,Caroli Red,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+,Caroli Red,,Ruby,4629,0,0,0,0,0,0,1,Primary
+,Celestial Blue,,Cobalt,4607,0,0,0,0,0,0,1,Primary
+,Celestial Blue,,Ice,4218,136,8,231,234,224,1.5,0,Alternate
+,Chalk White,,,Call,,,,,,,0,
+,Charcoal Black,,,Call,,,,,,,0,
+,Chestnut,,Mocha,4322,146,95,95,68,53,4,1,Primary
+,Chicory,,Fawn,4316,131,100,148,125,96,3,0,Primary
+,Cinnamon Spice,,,Call,,,,,,,0,
+,Clay Brown,,,Call,,,,,,,0,
+,Cloud White,,Winter,4101,171,90,253,253,252,3,0,Alternate
+,Coarse Carrara,,Winter,4101,171,90,253,253,252,3,0,Primary
+,Coarse Marfil,,Flax,4627,0,0,0,0,0,0,1,Primary
+,Coarse Pepper,,Mesa,4604,142,93,39,33,29,4,1,Primary
+,Concrete Gray,,,Call,,,,,,,0,
+,Copper Sunset,,Copper,4418,125,91,143,89,34,0,1,Primary
+,Coriander,,Beach,4230,112,100,208,186,148,3,0,Primary
+,Corona Brown,,,Call,,,,,,,0,
+,Crema Botticino,,Flax,4627,0,0,0,0,0,0,1,Primary
+,Crema Botticino,,Canvas,4112,117,100,234,237,227,3.5,0,Alternate
+,Crema Marfil,,Canvas,4112,117,100,234,237,227,3.5,0,Primary
+,Crema Marfil,,Flax,4627,0,0,0,0,0,0,1,Primary
+,Cygnus Pearl,,Flax,4627,0,0,0,0,0,0,1,Primary
+,Dorado Blue,,,Call,,,,,,,0,
+,Eclipse Blue,,Shale,4525,159,95,32,32,20,4.5,1,Primary
+,Flax,,Fog,4200,133,88,250,250,248,2.5,0,Primary
+,French Roast,,,Call,,,,,,,0,
+,Galaxy Black,,Midnight,4532,143,100,0,0,0,4,1,Primary
+,Giallo Michelangelo,,Earth,4628,0,0,0,0,0,0,1,Primary
+,Gravel Gray,,,Call,,,,,,,0,
+,Indus Red,,Ice,4218,136,8,231,234,224,1.5,0,Primary
+,Indus Red,,Hot,4617,0,0,0,0,0,0,1,Primary
+,Licorice,,Midnight,4532,143,100,0,0,0,4,1,Primary
+,Lunar Pearl,,Cream,4232,127,100,211,201,177,4,0,Primary
+,Magellan Green,,Olive,4520,149,91,74,63,37,0,1,Primary
+,Mahoghany Brown,,,Call,,,,,,,0,
+,Marrone Ambrato,,Copper,4418,125,91,143,89,34,0,1,Primary
+,Marrone Emperador,,Chocolate,4324,120,100,52,33,0,3,1,Primary
+,Marrone Emperador,,Auburn,4330,111,100,71,58,57,5,1,Primary
+,Mercury Gray,,,Call,,,,,,,0,
+,Meteor Gray,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+,Minera Pearl,,Cream,4232,127,100,211,201,177,4,0,Primary
+,Moroccan Morning,,Toffee,4318,166,100,136,107,84,2.5,1,Primary
+,Mossy Green,,Prairie,4516,153,90,137,139,123,3.5,0,Primary
+,Mystic Black,,Midnight,4532,143,100,0,0,0,4,1,Primary
+,Nutmeg,,Mesa,4604,142,93,39,33,29,4,1,Alternate
+,Papyrus,,Flax,4627,0,0,0,0,0,0,1,Primary
+,Poppy Seed,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+,Riviera Beige,,,Call,,,,,,,0,
+,Rosso Verona,,,Call,,,,,,,0,
+,Royal Brown,,Mocha,4322,146,95,95,68,53,4,1,Primary
+,Saddle Brown,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+,Sage,,Pudding,4606,154,88,45,39,18,3,1,Primary
+,Sand Beige,,Beach,4230,112,100,208,186,148,3,0,Primary
+,Savory,,Cream,4232,127,100,211,201,177,4,0,Primary
+,Smokey Topaz,,Olive,4520,149,91,74,63,37,0,1,Alternate
+,Snow Flurry,,Glacier,4111,134,90,253,253,252,3,0,Primary
+,Snow White,,Design,4601,0,0,0,0,0,0,1,Primary
+,Space Black,,Espresso,4528,130,100,58,58,58,4.5,1,Primary
+,Sterling,,,Call,,,,,,,0,
+,Storm Grey,,Lava,4521,139,100,87,86,77,4.5,1,Primary
+,Toasted Almond,,Caramel,4234,118,97,168,138,93,3.5,0,Alternate
+,Vega Rose,,,Call,,,,,,,0,
+,Vela Brown,,Cocoa,4323,124,100,45,26,15,0,1,Primary
+,Vesta Pearl,,,Call,,,,,,,0,
+,Vortex Black,,,Call,,,,,,,0,
+,Warm Taupe,,Olive,4520,149,91,74,63,37,0,1,Primary
+,Wintergreen,,Pearl,4510,151,80,220,220,220,3.5,0,Alternate
+,Woodland Gray,,Lava,4521,139,100,87,86,77,4.5,1,Alternate
