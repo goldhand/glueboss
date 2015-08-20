@@ -23,6 +23,9 @@ angular.module('gluebossApp')
         $scope.vendorColorKeys[colorKey.name] = colorKey.id;
       });
     });
+    $scope.search = {};
+
     $scope.linkUrl = '//www.glueboss.com/product-p/sp4-4000.htm';
+    $scope.showResults = false;
 
   });

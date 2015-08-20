@@ -1,14 +1,10 @@
-<div class="loading text-center" ng-show='!vendorColors.length'>
-  <span>Loading data...</span><br><br>
-  <i class="fa fa-spinner fa-spin fa-3x"></i>
-</div>
-<section class="section-vendor-colors" ng-show="vendorColors.length">
+<section class="section-vendor-colors">
   <div class="row">
     <div class="col-sm-6">
       <form ng-submit="searchFilter.all = search.all">
         <div class="form-group">
           <div class="input-group">
-            <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.all = search.all"><i class="glyphicon glyphicon-search"></i></button></span>
+            <span class="input-group-btn"><button class="btn btn-default" ng-click="searchFilter.all = search.all;showResults = true;"><i class="glyphicon glyphicon-search"></i></button></span>
             <input id="id_search_all" type="text" class="form-control" ng-model="search.all" placeholder="Search Manufacturer Color or Number"/>
              <span ng-if="search.all || searchFilter.all" class="input-group-btn"><button ng-click="searchFilter.all=null;search.all=null;" class="btn btn-default"><i class="glyphicon glyphicon-remove"></i></button></span>
            </div>
@@ -30,7 +26,7 @@
               <th>Glueboss #</th>
             </tr>
           </thead>
-          <tbody>
+          <tbody ng-if="showResults">
             <tr ng-repeat="color in vendorColors | multiKeywordFilter:searchFilter.all">
               <td>{{color.manufacturer}}</td>
               <td>{{color.color}}</td>
