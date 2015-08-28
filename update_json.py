@@ -29,9 +29,9 @@ def main(argv):
 if __name__ == '__main__':
     print '\n\n'
     print 'Copying Data from {}'.format(
-                    sys.argv[1] if len(sys.argv)>1 else 'glueboss-data.csv')
+        sys.argv[1] if len(sys.argv) > 1 else 'glueboss-data.csv')
     print '\n\n...\n...\n\n'
     main(sys.argv[1:])
     print 'Data saved to {}'.format(
-                    sys.argv[2] if len(sys.argv)>2 else 'glueboss-data.json')
+        sys.argv[2] if len(sys.argv) > 2 else 'glueboss-data.json')
     print '\n...\n100% COMPLETED\nMAINFRAME DESTRUCTION IMMINENT\n...\n'
